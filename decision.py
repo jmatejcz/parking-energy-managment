@@ -76,19 +76,6 @@ def find_best_charge_time(preds:list, car_info:dict, for_sale:bool = False):
     srt = sorted(zipped, key=lambda l:l[1])
     return srt[:hours_needed]
 
-def find_best_sale_time(load1, unload, load2):
-    '''
-    Args:
-    Lists returned by is_sale_potential
-    load1 - 1st load time window
-    unload - unload time window
-    load2 - 2nd load time window
-    Returns :
-    Precise hours when to laod and unload in diffrent lists 
-    '''
-    load1 = sorted(key= lambda l:l[1])
-
-
 
 def sale_potential(preds_to_avg:list, car_info:dict):
     '''
@@ -156,6 +143,7 @@ def schedule_charge(pcar_info:dict, preds:list, current_time = 0, time_interval 
 
     return best_load_timing, best_unload_timing   
     
+
 def output_signal(best_load_timing:list, best_unload_timing:list) -> int:
     for i in best_load_timing:
         if i[0] == 1:
@@ -166,17 +154,3 @@ def output_signal(best_load_timing:list, best_unload_timing:list) -> int:
             return -1
         
     return 0
-
-
-
-
-def main():
-    
-    preds = extract_prediction('parking-mock/PROG_RB_20211227_20211227202503.csv')
-    best_load_timing, best_unload_timing = schedule_charge(car_info, preds)
-    print(output_signal(best_load_timing, best_unload_timing))
-
-
-
-if __name__ == '__main__':
-    main()
