@@ -1,0 +1,121 @@
+2022-01-16 23:21:09,585 - Energy price predicitons for next 24 hours updated.
+2022-01-16 23:21:09,774 - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2022-01-16 23:21:09,774 - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2022-01-16 23:21:09,774 - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2022-01-16 23:21:09,774 - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2022-01-16 23:21:09,776 - Added job "<lambda>" to job store "default"
+2022-01-16 23:21:09,776 - Added job "<lambda>" to job store "default"
+2022-01-16 23:21:09,776 - Added job "<lambda>" to job store "default"
+2022-01-16 23:21:09,776 - Added job "<lambda>" to job store "default"
+2022-01-16 23:21:09,776 - Scheduler started
+2022-01-16 23:21:29,780 - Running job "<lambda> (trigger: interval[0:00:20], next run at: 2022-01-16 23:21:29 CET)" (scheduled at 2022-01-16 23:21:29.774027+01:00)
+2022-01-16 23:21:29,919 - Job "<lambda> (trigger: interval[0:00:20], next run at: 2022-01-16 23:21:49 CET)" raised an exception
+Traceback (most recent call last):
+  File "C:\Users\Admin\Desktop\python\energy-managment\parking_mock\parking_mock\lib\site-packages\apscheduler\executors\base.py", line 125, in run_job
+    retval = job.func(*job.args, **job.kwargs)
+  File "c:/Users/Admin/Desktop/python/energy-managment/parking_mock/parking.py", line 92, in <lambda>
+    scheduler.add_job(lambda: check_for_new_cars(WebClient, Parking), 'interval', seconds=20)
+  File "c:/Users/Admin/Desktop/python/energy-managment/parking_mock/parking.py", line 67, in check_for_new_cars
+    Parking.get_new_cars(new_res_list)
+  File "c:/Users/Admin/Desktop/python/energy-managment/parking_mock/parking.py", line 46, in get_new_cars
+    car_info = self.make_decision_for_car(car_info)
+  File "c:/Users/Admin/Desktop/python/energy-managment/parking_mock/parking.py", line 56, in make_decision_for_car
+    mode = decision.schedule_charge(car_info, self.price_preds)
+  File "c:\Users\Admin\Desktop\python\energy-managment\parking_mock\decision.py", line 156, in schedule_charge
+    if sale_potential(period_preds):
+  File "c:\Users\Admin\Desktop\python\energy-managment\parking_mock\decision.py", line 105, in sale_potential
+    avg = mean(period_preds)
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python38\lib\statistics.py", line 315, in mean
+    raise StatisticsError('mean requires at least one data point')
+statistics.StatisticsError: mean requires at least one data point
+2022-01-16 23:21:39,790 - Running job "<lambda> (trigger: interval[0:00:30], next run at: 2022-01-16 23:22:09 CET)" (scheduled at 2022-01-16 23:21:39.774027+01:00)
+2022-01-16 23:21:39,884 - Job "<lambda> (trigger: interval[0:00:30], next run at: 2022-01-16 23:22:09 CET)" executed successfully
+2022-01-16 23:21:49,790 - Running job "<lambda> (trigger: interval[0:00:20], next run at: 2022-01-16 23:22:09 CET)" (scheduled at 2022-01-16 23:21:49.774027+01:00)
+2022-01-16 23:21:49,934 - Job "<lambda> (trigger: interval[0:00:20], next run at: 2022-01-16 23:22:09 CET)" raised an exception
+Traceback (most recent call last):
+  File "C:\Users\Admin\Desktop\python\energy-managment\parking_mock\parking_mock\lib\site-packages\apscheduler\executors\base.py", line 125, in run_job
+    retval = job.func(*job.args, **job.kwargs)
+  File "c:/Users/Admin/Desktop/python/energy-managment/parking_mock/parking.py", line 92, in <lambda>
+    scheduler.add_job(lambda: check_for_new_cars(WebClient, Parking), 'interval', seconds=20)
+  File "c:/Users/Admin/Desktop/python/energy-managment/parking_mock/parking.py", line 67, in check_for_new_cars
+    Parking.get_new_cars(new_res_list)
+  File "c:/Users/Admin/Desktop/python/energy-managment/parking_mock/parking.py", line 46, in get_new_cars
+    car_info = self.make_decision_for_car(car_info)
+  File "c:/Users/Admin/Desktop/python/energy-managment/parking_mock/parking.py", line 56, in make_decision_for_car
+    mode = decision.schedule_charge(car_info, self.price_preds)
+  File "c:\Users\Admin\Desktop\python\energy-managment\parking_mock\decision.py", line 156, in schedule_charge
+    if sale_potential(period_preds):
+  File "c:\Users\Admin\Desktop\python\energy-managment\parking_mock\decision.py", line 105, in sale_potential
+    avg = mean(period_preds)
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python38\lib\statistics.py", line 315, in mean
+    raise StatisticsError('mean requires at least one data point')
+statistics.StatisticsError: mean requires at least one data point
+2022-01-16 23:22:09,786 - Running job "<lambda> (trigger: interval[0:00:30], next run at: 2022-01-16 23:22:39 CET)" (scheduled at 2022-01-16 23:22:09.774027+01:00)
+2022-01-16 23:22:09,787 - Running job "<lambda> (trigger: interval[0:00:20], next run at: 2022-01-16 23:22:29 CET)" (scheduled at 2022-01-16 23:22:09.774027+01:00)
+2022-01-16 23:22:09,788 - Running job "<lambda> (trigger: interval[0:01:00], next run at: 2022-01-16 23:22:09 CET)" (scheduled at 2022-01-16 23:22:09.774027+01:00)
+2022-01-16 23:22:09,790 - Running job "<lambda> (trigger: interval[0:01:00], next run at: 2022-01-16 23:22:09 CET)" (scheduled at 2022-01-16 23:22:09.774027+01:00)
+2022-01-16 23:22:09,791 - Job "<lambda> (trigger: interval[0:01:00], next run at: 2022-01-16 23:23:09 CET)" executed successfully
+2022-01-16 23:22:09,793 - Energy price predicitons for next 24 hours updated.
+2022-01-16 23:22:09,793 - Job "<lambda> (trigger: interval[0:01:00], next run at: 2022-01-16 23:23:09 CET)" executed successfully
+2022-01-16 23:22:09,891 - Job "<lambda> (trigger: interval[0:00:30], next run at: 2022-01-16 23:22:39 CET)" executed successfully
+2022-01-16 23:22:09,909 - Job "<lambda> (trigger: interval[0:00:20], next run at: 2022-01-16 23:22:29 CET)" raised an exception
+Traceback (most recent call last):
+  File "C:\Users\Admin\Desktop\python\energy-managment\parking_mock\parking_mock\lib\site-packages\apscheduler\executors\base.py", line 125, in run_job
+    retval = job.func(*job.args, **job.kwargs)
+  File "c:/Users/Admin/Desktop/python/energy-managment/parking_mock/parking.py", line 92, in <lambda>
+    scheduler.add_job(lambda: check_for_new_cars(WebClient, Parking), 'interval', seconds=20)
+  File "c:/Users/Admin/Desktop/python/energy-managment/parking_mock/parking.py", line 67, in check_for_new_cars
+    Parking.get_new_cars(new_res_list)
+  File "c:/Users/Admin/Desktop/python/energy-managment/parking_mock/parking.py", line 46, in get_new_cars
+    car_info = self.make_decision_for_car(car_info)
+  File "c:/Users/Admin/Desktop/python/energy-managment/parking_mock/parking.py", line 56, in make_decision_for_car
+    mode = decision.schedule_charge(car_info, self.price_preds)
+  File "c:\Users\Admin\Desktop\python\energy-managment\parking_mock\decision.py", line 156, in schedule_charge
+    if sale_potential(period_preds):
+  File "c:\Users\Admin\Desktop\python\energy-managment\parking_mock\decision.py", line 105, in sale_potential
+    avg = mean(period_preds)
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python38\lib\statistics.py", line 315, in mean
+    raise StatisticsError('mean requires at least one data point')
+statistics.StatisticsError: mean requires at least one data point
+2022-01-16 23:22:29,792 - Running job "<lambda> (trigger: interval[0:00:20], next run at: 2022-01-16 23:22:49 CET)" (scheduled at 2022-01-16 23:22:29.774027+01:00)
+2022-01-16 23:22:29,902 - Job "<lambda> (trigger: interval[0:00:20], next run at: 2022-01-16 23:22:49 CET)" raised an exception
+Traceback (most recent call last):
+  File "C:\Users\Admin\Desktop\python\energy-managment\parking_mock\parking_mock\lib\site-packages\apscheduler\executors\base.py", line 125, in run_job
+    retval = job.func(*job.args, **job.kwargs)
+  File "c:/Users/Admin/Desktop/python/energy-managment/parking_mock/parking.py", line 92, in <lambda>
+    scheduler.add_job(lambda: check_for_new_cars(WebClient, Parking), 'interval', seconds=20)
+  File "c:/Users/Admin/Desktop/python/energy-managment/parking_mock/parking.py", line 67, in check_for_new_cars
+    Parking.get_new_cars(new_res_list)
+  File "c:/Users/Admin/Desktop/python/energy-managment/parking_mock/parking.py", line 46, in get_new_cars
+    car_info = self.make_decision_for_car(car_info)
+  File "c:/Users/Admin/Desktop/python/energy-managment/parking_mock/parking.py", line 56, in make_decision_for_car
+    mode = decision.schedule_charge(car_info, self.price_preds)
+  File "c:\Users\Admin\Desktop\python\energy-managment\parking_mock\decision.py", line 156, in schedule_charge
+    if sale_potential(period_preds):
+  File "c:\Users\Admin\Desktop\python\energy-managment\parking_mock\decision.py", line 105, in sale_potential
+    avg = mean(period_preds)
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python38\lib\statistics.py", line 315, in mean
+    raise StatisticsError('mean requires at least one data point')
+statistics.StatisticsError: mean requires at least one data point
+2022-01-16 23:22:39,775 - Running job "<lambda> (trigger: interval[0:00:30], next run at: 2022-01-16 23:23:09 CET)" (scheduled at 2022-01-16 23:22:39.774027+01:00)
+2022-01-16 23:22:39,866 - Job "<lambda> (trigger: interval[0:00:30], next run at: 2022-01-16 23:23:09 CET)" executed successfully
+2022-01-16 23:22:49,775 - Running job "<lambda> (trigger: interval[0:00:20], next run at: 2022-01-16 23:23:09 CET)" (scheduled at 2022-01-16 23:22:49.774027+01:00)
+2022-01-16 23:22:49,880 - Job "<lambda> (trigger: interval[0:00:20], next run at: 2022-01-16 23:23:09 CET)" raised an exception
+Traceback (most recent call last):
+  File "C:\Users\Admin\Desktop\python\energy-managment\parking_mock\parking_mock\lib\site-packages\apscheduler\executors\base.py", line 125, in run_job
+    retval = job.func(*job.args, **job.kwargs)
+  File "c:/Users/Admin/Desktop/python/energy-managment/parking_mock/parking.py", line 92, in <lambda>
+    scheduler.add_job(lambda: check_for_new_cars(WebClient, Parking), 'interval', seconds=20)
+  File "c:/Users/Admin/Desktop/python/energy-managment/parking_mock/parking.py", line 67, in check_for_new_cars
+    Parking.get_new_cars(new_res_list)
+  File "c:/Users/Admin/Desktop/python/energy-managment/parking_mock/parking.py", line 46, in get_new_cars
+    car_info = self.make_decision_for_car(car_info)
+  File "c:/Users/Admin/Desktop/python/energy-managment/parking_mock/parking.py", line 56, in make_decision_for_car
+    mode = decision.schedule_charge(car_info, self.price_preds)
+  File "c:\Users\Admin\Desktop\python\energy-managment\parking_mock\decision.py", line 156, in schedule_charge
+    if sale_potential(period_preds):
+  File "c:\Users\Admin\Desktop\python\energy-managment\parking_mock\decision.py", line 105, in sale_potential
+    avg = mean(period_preds)
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python38\lib\statistics.py", line 315, in mean
+    raise StatisticsError('mean requires at least one data point')
+statistics.StatisticsError: mean requires at least one data point

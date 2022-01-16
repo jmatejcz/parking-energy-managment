@@ -77,8 +77,10 @@ class GetCarInfoTest(unittest.TestCase):
         }
         
         result = get_car_info(car_info)
-
-        self.assertEqual(result['when_leaving'], 23)
+        start = datetime.now().hour
+        endTime = car_info['endTime'].split('.')[0]
+        endTime = datetime.strptime(endTime, '%Y-%m-%dT%H:%M:%S').hour
+        self.assertEqual(result['when_leaving'], endTime-start)
 
     def test_when_leaving_miliseconds(self):
         car_info = {
@@ -101,8 +103,11 @@ class GetCarInfoTest(unittest.TestCase):
             "battery": 40
         }
         result = get_car_info(car_info)
+        start = datetime.now().hour
+        endTime = car_info['endTime'].split('.')[0]
+        endTime = datetime.strptime(endTime, '%Y-%m-%dT%H:%M:%S').hour
         
-        self.assertEqual(result['when_leaving'], 19)
+        self.assertEqual(result['when_leaving'], endTime-start)
 
 class TestFindBestChargeTime(unittest.TestCase):
 
@@ -124,13 +129,37 @@ class SalePotentialTest(unittest.TestCase):
     
     def test_low_high_low_prices(self):
         preds = [70.0, 150.0, 150.0, 390.0, 390.0, 390.0, 300.0, 150.0, 169.73, 190.2, 200.0]
-
         result_load1, result_unload, result_load2 = sale_potential(preds)
         
         self.assertCountEqual(result_load1, [(0, 70.0), (1, 150.0), (2, 150.0)]) 
         self.assertCountEqual(result_unload, [(3, 390.0), (4, 390.0), (5, 390.0), (6, 300.0)])
         self.assertCountEqual(result_load2, [(7, 150.0), (8, 169.73), (9, 190.2), (10, 200.0)])
 
+    
+    def test_high_low_prices(self):
+        preds = [400.0, 450.0, 450.0, 390.0, 270.0, 270.0, 200.0, 200.0]
+
+        result_load1, result_unload, result_load2 = sale_potential(preds)
+        
+        self.assertCountEqual(result_load1, []) 
+        self.assertCountEqual(result_unload, [(0, 400.0), (1, 450.0), (2, 450.0), (3, 390.0)])
+        self.assertCountEqual(result_load2, [(4, 270.0), (5, 270.0), (6, 200.0), (7, 200.0)])
+
+    
+    def test_low_high_prices(self):
+        preds = [200.0, 250.0, 250.0, 290.0, 370.0, 370.0, 400.0, 400.0]
+
+        result = sale_potential(preds)
+        
+        self.assertFalse(result)
+
+
+class ScheduleChargeTest(unittest.TestCase):
+
+    def test_low_high_low_whole_day_stay(self):
+
+        preds = [100.0, 100.0, 150.0, 150.0, 150.0, 200.0, 200.0, 300.0, 350.0, 450.0, 450.0, 450.0, 500.0, 450.0, 350.0, 390.0, 300.0, 250.0, 200.0, 150.0, 150.0, 150.0, 100.0, 100.0]
+        
 
 if __name__ == '__main__':
     unittest.main()

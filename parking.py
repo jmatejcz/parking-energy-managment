@@ -43,7 +43,6 @@ class Parking():
                 new_cars.append(new_car)
         
         for car_info in new_cars:
-            print(car_info['endTime'])
             car_info = self.make_decision_for_car(car_info)
             self.add_new_car(car_info)
             utils.log_new_car(car_info)
@@ -93,6 +92,6 @@ if __name__ == '__main__':
     scheduler.add_job(lambda: check_for_new_cars(WebClient, Parking), 'interval', seconds=20)
     scheduler.add_job(lambda: schedule_charge_for_all_cars(Parking), 'interval', minutes=1)
     scheduler.add_job(lambda: update_database(WebClient, Parking), 'interval', seconds=30)
-    scheduler.add_job(lambda: update_price_preds(Parking), 'interval', minutes=1)
+    scheduler.add_job(lambda: update_price_preds(Parking, 'data/PL_CENY_NIEZB_20220101_20220115.csv'), 'interval', minutes=1)
     
     scheduler.start()
