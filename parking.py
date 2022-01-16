@@ -1,83 +1,98 @@
+import logging
+from turtle import update
 from request import WebClient
 import decision
 import json
+import utils
 from apscheduler.schedulers.blocking import BlockingScheduler
+import csv
 
 
-def read_current_res_ids(filename:str) -> set:
-    '''
+class Parking():
 
-    '''
-    with open(filename) as f:
-        res_list = json.load(f)
-    ids = set([res['id'] for res in res_list])
+    def __init__(self) -> None:
+        self.state = []
+        self.price_preds = []
+        self.working_time = 0
 
-    return ids
+    def update_price_preds(self, filename):
+        self.price_preds = []
+        with open(filename) as f:
+            pred_reader = csv.reader(f, delimiter=';')
+            next(pred_reader)
+            rows = list(pred_reader)
+            for row in rows[self.working_time+1: self.working_time+25]:
+                try:
+                    self.price_preds.append(float(row[2].replace(',', '.')))
+                except ValueError:
+                    pass
+        print(self.price_preds)
+        utils.log_price_preds_updated()
+        
+    def add_new_car(self, car_info:dict) -> None:
+        self.state.append(car_info)
 
-def get_new_cars(new_res_list:list, ids:set) -> list:
-    '''
+    def update_state(self, state:list) -> None:
+        self.state = state
 
-    '''
-    new_cars = []
-    for new_res in new_res_list:
-        if new_res['id'] not in ids:
-            new_cars.append(new_res)
-    
-    return new_cars
+    def get_new_cars(self, new_res_list) -> None:
+        ids = set([car['id'] for car in self.state])
+        new_cars = []
+        for new_car in new_res_list:
+            if new_car['id'] not in ids:
+                new_cars.append(new_car)
+        
+        for car_info in new_cars:
+            print(car_info['endTime'])
+            car_info = self.make_decision_for_car(car_info)
+            self.add_new_car(car_info)
+            utils.log_new_car(car_info)
 
+    def make_decision_for_car(self, car_info:dict) -> dict:
+        if car_info['battery'] > 90:
+            mode = 0
+        elif car_info['endTime'] is None:
+            mode = 1
+        else:
+            mode = decision.schedule_charge(car_info, self.price_preds)
 
-def get_car_info(reservation_dict:dict) -> dict:
-    car_info = {}
-    car_info['battery_capacity'] = reservation_dict['carDTO']['carModel']['batteryCapacity']
-    car_info['when_leaving'] = reservation_dict['endTime'].time()
-    car_info['battery_capacity'] = reservation_dict['carDTO']['carModel']['batteryCapacity']
-    car_info['percent_charged'] = reservation_dict['battery']
-    return car_info
-
-
-def make_decision_for_cars(res_list:list, preds_src:str) -> int:
-    signals = []
-    preds = decision.extract_prediction(preds_src)
-    for res_dict in res_list:
-        car_info = get_car_info(res_dict)
-        best_load_timing, best_unload_timing = decision.schedule_charge(car_info, preds)
-        signals.append(decision.output_signal(best_load_timing, best_unload_timing))
-    
-    return signals
+        car_info['charge_mode'] = mode
+        utils.log_charge_mode(car_info)
+        return car_info
 
 
-def check_for_new_cars(webClient) -> None:
+def check_for_new_cars(WebClient, Parking) -> None:
     token = WebClient.get_login_token('email=john.doe%40mail.com&password=1234')
     new_res_list = WebClient.get_reserations_list(token)
 
-    current_ids = read_current_res_ids('data/reservation_list.json')   
-    new_cars = get_new_cars(new_res_list, current_ids)
-
-    with open('data/reservation_list.json', 'w') as f:
-        json.dump(new_res_list, f)
-
-    if new_cars:
-        signals = make_decision_for_cars(new_cars, 'data/PROG_RB_20211227_20211227202503.csv')
-        print(signals)
+    Parking.get_new_cars(new_res_list)
 
 
-def update_database():
-    pass
+def update_database(WebClient, Parking):
+    token = WebClient.get_login_token('email=john.doe%40mail.com&password=1234')
+    for res in Parking.state:
+        WebClient.put_battery(token, res['id'], res['battery'])
+        utils.log_database_update(res)
 
 
-def schedule_charge_for_all_cars():
-    with open('data/reservation_list.json', 'r') as f:
-        res_list = json.load(f)
-    signals = make_decision_for_cars(res_list, 'data/PROG_RB_20211227_20211227202503.csv')
-    print(signals)
+def schedule_charge_for_all_cars(Parking):
+    for car_info in Parking.state:
+        Parking.make_decision_for_car(car_info)
+
+
+def update_price_preds(Parking, filename):
+    Parking.update_price_preds(filename)
 
 
 if __name__ == '__main__':
     WebClient = WebClient('http://localhost:8080')
-
+    Parking = Parking()
+    Parking.update_price_preds('data/PL_CENY_NIEZB_20220101_20220115.csv')
     scheduler = BlockingScheduler(timezone="Europe/Warsaw")
-    scheduler.add_job(lambda: check_for_new_cars(WebClient), 'interval', seconds=20)
-    scheduler.add_job(schedule_charge_for_all_cars, 'interval', minutes=60)
-    scheduler.add_job(lambda: update_database(WebClient), 'interval', minutes=10)
+
+    scheduler.add_job(lambda: check_for_new_cars(WebClient, Parking), 'interval', seconds=20)
+    scheduler.add_job(lambda: schedule_charge_for_all_cars(Parking), 'interval', minutes=1)
+    scheduler.add_job(lambda: update_database(WebClient, Parking), 'interval', seconds=30)
+    scheduler.add_job(lambda: update_price_preds(Parking), 'interval', minutes=1)
     
     scheduler.start()
