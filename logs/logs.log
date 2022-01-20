@@ -1,0 +1,1024 @@
+2022-01-17 19:42:10,838 - Energy price predicitons for next 24 hours updated.
+2022-01-17 19:42:10,839 - Current predicions:[120.0, 150.0, 70.0, 90.0, 190.0, 210.0, 290.0, 150.0, 119.73, 90.2, 100.0, 122.39, 450.99, 426.57, 426.57, 463.03, 460.05, 439.6, 456.47, 463.03, 412.65, 421.98, 452.42, 426.08]
+2022-01-17 19:43:11,128 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20005, licesnse plate: WA13083, leaving at:2022-01-18T01:10:25.217543) charge mode changed to 0.
+2022-01-17 19:43:11,128 - new car (id: c0a83801-7e1c-1d36-817e-1c700ff20005, licesnse plate: WA13083) plugged.
+2022-01-17 19:43:11,129 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20002, licesnse plate: WA96733, leaving at:2022-01-18T10:10:25.203543) charge mode changed to 0.
+2022-01-17 19:43:11,129 - new car (id: c0a83801-7e1c-1d36-817e-1c700ff20002, licesnse plate: WA96733) plugged.
+2022-01-17 19:43:11,129 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20007, licesnse plate: WA29598, leaving at:2022-01-18T10:10:25.220544) charge mode changed to 0.
+2022-01-17 19:43:11,129 - new car (id: c0a83801-7e1c-1d36-817e-1c700ff20007, licesnse plate: WA29598) plugged.
+2022-01-17 19:43:11,130 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20003, licesnse plate: WA76212, leaving at:2022-01-18T08:10:25.215544) charge mode changed to 0.
+2022-01-17 19:43:11,131 - new car (id: c0a83801-7e1c-1d36-817e-1c700ff20003, licesnse plate: WA76212) plugged.
+2022-01-17 19:43:11,131 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20006, licesnse plate: WA22129, leaving at:2022-01-18T07:10:25.219544) charge mode changed to 0.
+2022-01-17 19:43:11,131 - new car (id: c0a83801-7e1c-1d36-817e-1c700ff20006, licesnse plate: WA22129) plugged.
+2022-01-17 19:43:11,132 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20009, licesnse plate: WA14238, leaving at:2022-01-17T22:10:25.222545) charge mode changed to 1.
+2022-01-17 19:43:11,132 - new car (id: c0a83801-7e1c-1d36-817e-1c700ff20009, licesnse plate: WA14238) plugged.
+2022-01-17 19:52:11,281 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20005, licesnse plate: WA13083, leaving at:2022-01-18T01:10:25.217543) battery updated to 9.0.
+2022-01-17 19:52:11,288 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20002, licesnse plate: WA96733, leaving at:2022-01-18T10:10:25.203543) battery updated to 23.0.
+2022-01-17 19:52:11,298 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20007, licesnse plate: WA29598, leaving at:2022-01-18T10:10:25.220544) battery updated to 50.0.
+2022-01-17 19:52:11,312 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20003, licesnse plate: WA76212, leaving at:2022-01-18T08:10:25.215544) battery updated to 31.0.
+2022-01-17 19:52:11,322 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20006, licesnse plate: WA22129, leaving at:2022-01-18T07:10:25.219544) battery updated to 82.0.
+2022-01-17 19:52:11,333 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20009, licesnse plate: WA14238, leaving at:2022-01-17T22:10:25.222545) battery updated to 33.574074074074076.
+2022-01-17 20:02:11,196 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20005, licesnse plate: WA13083, leaving at:2022-01-18T01:10:25.217543) battery updated to 9.0.
+2022-01-17 20:02:11,205 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20002, licesnse plate: WA96733, leaving at:2022-01-18T10:10:25.203543) battery updated to 23.0.
+2022-01-17 20:02:11,213 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20007, licesnse plate: WA29598, leaving at:2022-01-18T10:10:25.220544) battery updated to 50.0.
+2022-01-17 20:02:11,222 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20003, licesnse plate: WA76212, leaving at:2022-01-18T08:10:25.215544) battery updated to 31.0.
+2022-01-17 20:02:11,230 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20006, licesnse plate: WA22129, leaving at:2022-01-18T07:10:25.219544) battery updated to 82.0.
+2022-01-17 20:02:11,239 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20009, licesnse plate: WA14238, leaving at:2022-01-17T22:10:25.222545) battery updated to 45.14814814814815.
+2022-01-17 20:12:11,102 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20005, licesnse plate: WA13083, leaving at:2022-01-18T01:10:25.217543) battery updated to 9.0.
+2022-01-17 20:12:11,110 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20002, licesnse plate: WA96733, leaving at:2022-01-18T10:10:25.203543) battery updated to 23.0.
+2022-01-17 20:12:11,117 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20007, licesnse plate: WA29598, leaving at:2022-01-18T10:10:25.220544) battery updated to 50.0.
+2022-01-17 20:12:11,124 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20003, licesnse plate: WA76212, leaving at:2022-01-18T08:10:25.215544) battery updated to 31.0.
+2022-01-17 20:12:11,130 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20006, licesnse plate: WA22129, leaving at:2022-01-18T07:10:25.219544) battery updated to 82.0.
+2022-01-17 20:12:11,137 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20009, licesnse plate: WA14238, leaving at:2022-01-17T22:10:25.222545) battery updated to 56.72222222222223.
+2022-01-17 20:22:11,116 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20005, licesnse plate: WA13083, leaving at:2022-01-18T01:10:25.217543) battery updated to 9.0.
+2022-01-17 20:22:11,122 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20002, licesnse plate: WA96733, leaving at:2022-01-18T10:10:25.203543) battery updated to 23.0.
+2022-01-17 20:22:11,128 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20007, licesnse plate: WA29598, leaving at:2022-01-18T10:10:25.220544) battery updated to 50.0.
+2022-01-17 20:22:11,133 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20003, licesnse plate: WA76212, leaving at:2022-01-18T08:10:25.215544) battery updated to 31.0.
+2022-01-17 20:22:11,140 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20006, licesnse plate: WA22129, leaving at:2022-01-18T07:10:25.219544) battery updated to 82.0.
+2022-01-17 20:22:11,146 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20009, licesnse plate: WA14238, leaving at:2022-01-17T22:10:25.222545) battery updated to 68.2962962962963.
+2022-01-17 22:22:11,142 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20005, licesnse plate: WA13083, leaving at:2022-01-18T01:10:25.217543) battery updated to 9.0.
+2022-01-17 22:22:11,153 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20002, licesnse plate: WA96733, leaving at:2022-01-18T10:10:25.203543) battery updated to 23.0.
+2022-01-17 22:22:11,159 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20007, licesnse plate: WA29598, leaving at:2022-01-18T10:10:25.220544) battery updated to 50.0.
+2022-01-17 22:22:11,170 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20003, licesnse plate: WA76212, leaving at:2022-01-18T08:10:25.215544) battery updated to 31.0.
+2022-01-17 22:22:11,182 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20006, licesnse plate: WA22129, leaving at:2022-01-18T07:10:25.219544) battery updated to 82.0.
+2022-01-17 22:22:11,193 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20009, licesnse plate: WA14238, leaving at:2022-01-17T22:10:25.222545) battery updated to 79.87037037037038.
+2022-01-17 22:32:11,132 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20005, licesnse plate: WA13083, leaving at:2022-01-18T01:10:25.217543) battery updated to 9.0.
+2022-01-17 22:32:11,143 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20002, licesnse plate: WA96733, leaving at:2022-01-18T10:10:25.203543) battery updated to 23.0.
+2022-01-17 22:32:11,149 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20007, licesnse plate: WA29598, leaving at:2022-01-18T10:10:25.220544) battery updated to 50.0.
+2022-01-17 22:32:11,157 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20003, licesnse plate: WA76212, leaving at:2022-01-18T08:10:25.215544) battery updated to 31.0.
+2022-01-17 22:32:11,164 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20006, licesnse plate: WA22129, leaving at:2022-01-18T07:10:25.219544) battery updated to 82.0.
+2022-01-17 22:32:11,172 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20009, licesnse plate: WA14238, leaving at:2022-01-17T22:10:25.222545) battery updated to 91.44444444444446.
+2022-01-17 22:42:11,091 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20005, licesnse plate: WA13083, leaving at:2022-01-18T01:10:25.217543) charge mode changed to 1.
+2022-01-17 22:42:11,103 - Energy price predicitons for next 24 hours updated.
+2022-01-17 22:42:11,104 - Current predicions:[150.0, 70.0, 90.0, 190.0, 210.0, 290.0, 150.0, 119.73, 90.2, 100.0, 122.39, 450.99, 426.57, 426.57, 463.03, 460.05, 439.6, 456.47, 463.03, 412.65, 421.98, 452.42, 426.08, 349.87]
+2022-01-17 22:42:11,112 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20002, licesnse plate: WA96733, leaving at:2022-01-18T10:10:25.203543) charge mode changed to 0.
+2022-01-17 22:42:11,134 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20007, licesnse plate: WA29598, leaving at:2022-01-18T10:10:25.220544) charge mode changed to 0.
+2022-01-17 22:42:11,146 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20003, licesnse plate: WA76212, leaving at:2022-01-18T08:10:25.215544) charge mode changed to 0.
+2022-01-17 22:42:11,154 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20006, licesnse plate: WA22129, leaving at:2022-01-18T07:10:25.219544) charge mode changed to 0.
+2022-01-17 22:42:11,154 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20009, licesnse plate: WA14238, leaving at:2022-01-17T22:10:25.222545) charge mode changed to 0.
+2022-01-17 22:42:11,198 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20005, licesnse plate: WA13083, leaving at:2022-01-18T01:10:25.217543) battery updated to 23.88095238095238.
+2022-01-17 22:42:11,210 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20002, licesnse plate: WA96733, leaving at:2022-01-18T10:10:25.203543) battery updated to 23.0.
+2022-01-17 22:42:11,218 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20007, licesnse plate: WA29598, leaving at:2022-01-18T10:10:25.220544) battery updated to 50.0.
+2022-01-17 22:42:11,225 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20003, licesnse plate: WA76212, leaving at:2022-01-18T08:10:25.215544) battery updated to 31.0.
+2022-01-17 22:42:11,235 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20006, licesnse plate: WA22129, leaving at:2022-01-18T07:10:25.219544) battery updated to 82.0.
+2022-01-17 22:42:11,246 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20009, licesnse plate: WA14238, leaving at:2022-01-17T22:10:25.222545) battery updated to 91.44444444444446.
+2022-01-17 22:52:11,230 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20005, licesnse plate: WA13083, leaving at:2022-01-18T01:10:25.217543) battery updated to 38.76190476190476.
+2022-01-17 22:52:11,237 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20002, licesnse plate: WA96733, leaving at:2022-01-18T10:10:25.203543) battery updated to 23.0.
+2022-01-17 22:52:11,248 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20007, licesnse plate: WA29598, leaving at:2022-01-18T10:10:25.220544) battery updated to 50.0.
+2022-01-17 22:52:11,256 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20003, licesnse plate: WA76212, leaving at:2022-01-18T08:10:25.215544) battery updated to 31.0.
+2022-01-17 22:52:11,263 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20006, licesnse plate: WA22129, leaving at:2022-01-18T07:10:25.219544) battery updated to 82.0.
+2022-01-17 22:52:11,272 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20009, licesnse plate: WA14238, leaving at:2022-01-17T22:10:25.222545) battery updated to 91.44444444444446.
+2022-01-17 23:02:11,224 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20005, licesnse plate: WA13083, leaving at:2022-01-18T01:10:25.217543) battery updated to 53.64285714285714.
+2022-01-17 23:02:11,233 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20002, licesnse plate: WA96733, leaving at:2022-01-18T10:10:25.203543) battery updated to 23.0.
+2022-01-17 23:02:11,245 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20007, licesnse plate: WA29598, leaving at:2022-01-18T10:10:25.220544) battery updated to 50.0.
+2022-01-17 23:02:11,254 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20003, licesnse plate: WA76212, leaving at:2022-01-18T08:10:25.215544) battery updated to 31.0.
+2022-01-17 23:02:11,265 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20006, licesnse plate: WA22129, leaving at:2022-01-18T07:10:25.219544) battery updated to 82.0.
+2022-01-17 23:02:11,277 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20009, licesnse plate: WA14238, leaving at:2022-01-17T22:10:25.222545) battery updated to 91.44444444444446.
+2022-01-17 23:12:11,208 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20005, licesnse plate: WA13083, leaving at:2022-01-18T01:10:25.217543) battery updated to 68.52380952380952.
+2022-01-17 23:12:11,220 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20002, licesnse plate: WA96733, leaving at:2022-01-18T10:10:25.203543) battery updated to 23.0.
+2022-01-17 23:12:11,229 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20007, licesnse plate: WA29598, leaving at:2022-01-18T10:10:25.220544) battery updated to 50.0.
+2022-01-17 23:12:11,238 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20003, licesnse plate: WA76212, leaving at:2022-01-18T08:10:25.215544) battery updated to 31.0.
+2022-01-17 23:12:11,249 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20006, licesnse plate: WA22129, leaving at:2022-01-18T07:10:25.219544) battery updated to 82.0.
+2022-01-17 23:12:11,257 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20009, licesnse plate: WA14238, leaving at:2022-01-17T22:10:25.222545) battery updated to 91.44444444444446.
+2022-01-17 23:22:11,137 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20005, licesnse plate: WA13083, leaving at:2022-01-18T01:10:25.217543) battery updated to 83.4047619047619.
+2022-01-17 23:22:11,148 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20002, licesnse plate: WA96733, leaving at:2022-01-18T10:10:25.203543) battery updated to 23.0.
+2022-01-17 23:22:11,163 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20007, licesnse plate: WA29598, leaving at:2022-01-18T10:10:25.220544) battery updated to 50.0.
+2022-01-17 23:22:11,172 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20003, licesnse plate: WA76212, leaving at:2022-01-18T08:10:25.215544) battery updated to 31.0.
+2022-01-17 23:22:11,182 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20006, licesnse plate: WA22129, leaving at:2022-01-18T07:10:25.219544) battery updated to 82.0.
+2022-01-17 23:22:11,189 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20009, licesnse plate: WA14238, leaving at:2022-01-17T22:10:25.222545) battery updated to 91.44444444444446.
+2022-01-17 23:32:11,192 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20005, licesnse plate: WA13083, leaving at:2022-01-18T01:10:25.217543) battery updated to 98.28571428571428.
+2022-01-17 23:32:11,201 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20002, licesnse plate: WA96733, leaving at:2022-01-18T10:10:25.203543) battery updated to 23.0.
+2022-01-17 23:32:11,210 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20007, licesnse plate: WA29598, leaving at:2022-01-18T10:10:25.220544) battery updated to 50.0.
+2022-01-17 23:32:11,219 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20003, licesnse plate: WA76212, leaving at:2022-01-18T08:10:25.215544) battery updated to 31.0.
+2022-01-17 23:32:11,226 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20006, licesnse plate: WA22129, leaving at:2022-01-18T07:10:25.219544) battery updated to 82.0.
+2022-01-17 23:32:11,232 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20009, licesnse plate: WA14238, leaving at:2022-01-17T22:10:25.222545) battery updated to 91.44444444444446.
+2022-01-17 23:42:11,015 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20005, licesnse plate: WA13083, leaving at:2022-01-18T01:10:25.217543) charge mode changed to 0.
+2022-01-17 23:42:11,024 - Energy price predicitons for next 24 hours updated.
+2022-01-17 23:42:11,025 - Current predicions:[70.0, 90.0, 190.0, 210.0, 290.0, 150.0, 119.73, 90.2, 100.0, 122.39, 450.99, 426.57, 426.57, 463.03, 460.05, 439.6, 456.47, 463.03, 412.65, 421.98, 452.42, 426.08, 349.87, 190.0]
+2022-01-17 23:42:11,066 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20002, licesnse plate: WA96733, leaving at:2022-01-18T10:10:25.203543) charge mode changed to 0.
+2022-01-17 23:42:11,086 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20007, licesnse plate: WA29598, leaving at:2022-01-18T10:10:25.220544) charge mode changed to 1.
+2022-01-17 23:42:11,092 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20003, licesnse plate: WA76212, leaving at:2022-01-18T08:10:25.215544) charge mode changed to 1.
+2022-01-17 23:42:11,099 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20006, licesnse plate: WA22129, leaving at:2022-01-18T07:10:25.219544) charge mode changed to 1.
+2022-01-17 23:42:11,100 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20009, licesnse plate: WA14238, leaving at:2022-01-17T22:10:25.222545) charge mode changed to 0.
+2022-01-17 23:42:11,148 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20005, licesnse plate: WA13083, leaving at:2022-01-18T01:10:25.217543) battery updated to 98.28571428571428.
+2022-01-17 23:42:11,157 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20002, licesnse plate: WA96733, leaving at:2022-01-18T10:10:25.203543) battery updated to 23.0.
+2022-01-17 23:42:11,165 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20007, licesnse plate: WA29598, leaving at:2022-01-18T10:10:25.220544) battery updated to 67.73049645390071.
+2022-01-17 23:42:11,173 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20003, licesnse plate: WA76212, leaving at:2022-01-18T08:10:25.215544) battery updated to 47.66666666666667.
+2022-01-17 23:42:11,184 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20006, licesnse plate: WA22129, leaving at:2022-01-18T07:10:25.219544) battery updated to 100.
+2022-01-17 23:42:11,191 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20009, licesnse plate: WA14238, leaving at:2022-01-17T22:10:25.222545) battery updated to 91.44444444444446.
+2022-01-17 23:52:11,171 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20005, licesnse plate: WA13083, leaving at:2022-01-18T01:10:25.217543) battery updated to 98.28571428571428.
+2022-01-17 23:52:11,178 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20002, licesnse plate: WA96733, leaving at:2022-01-18T10:10:25.203543) battery updated to 23.0.
+2022-01-17 23:52:11,187 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20007, licesnse plate: WA29598, leaving at:2022-01-18T10:10:25.220544) battery updated to 85.46099290780143.
+2022-01-17 23:52:11,194 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20003, licesnse plate: WA76212, leaving at:2022-01-18T08:10:25.215544) battery updated to 64.33333333333334.
+2022-01-17 23:52:11,203 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20006, licesnse plate: WA22129, leaving at:2022-01-18T07:10:25.219544) battery updated to 100.
+2022-01-17 23:52:11,211 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20009, licesnse plate: WA14238, leaving at:2022-01-17T22:10:25.222545) battery updated to 91.44444444444446.
+2022-01-18 00:02:11,168 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20005, licesnse plate: WA13083, leaving at:2022-01-18T01:10:25.217543) battery updated to 98.28571428571428.
+2022-01-18 00:02:11,176 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20002, licesnse plate: WA96733, leaving at:2022-01-18T10:10:25.203543) battery updated to 23.0.
+2022-01-18 00:02:11,186 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20007, licesnse plate: WA29598, leaving at:2022-01-18T10:10:25.220544) battery updated to 100.
+2022-01-18 00:02:11,194 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20003, licesnse plate: WA76212, leaving at:2022-01-18T08:10:25.215544) battery updated to 81.00000000000001.
+2022-01-18 00:02:11,203 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20006, licesnse plate: WA22129, leaving at:2022-01-18T07:10:25.219544) battery updated to 100.
+2022-01-18 00:02:11,212 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20009, licesnse plate: WA14238, leaving at:2022-01-17T22:10:25.222545) battery updated to 91.44444444444446.
+2022-01-18 00:12:11,174 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20005, licesnse plate: WA13083, leaving at:2022-01-18T01:10:25.217543) battery updated to 98.28571428571428.
+2022-01-18 00:12:11,183 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20002, licesnse plate: WA96733, leaving at:2022-01-18T10:10:25.203543) battery updated to 23.0.
+2022-01-18 00:12:11,189 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20007, licesnse plate: WA29598, leaving at:2022-01-18T10:10:25.220544) battery updated to 100.
+2022-01-18 00:12:11,203 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20003, licesnse plate: WA76212, leaving at:2022-01-18T08:10:25.215544) battery updated to 97.66666666666669.
+2022-01-18 00:12:11,211 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20006, licesnse plate: WA22129, leaving at:2022-01-18T07:10:25.219544) battery updated to 100.
+2022-01-18 00:12:11,221 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20009, licesnse plate: WA14238, leaving at:2022-01-17T22:10:25.222545) battery updated to 91.44444444444446.
+2022-01-18 00:22:11,200 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20005, licesnse plate: WA13083, leaving at:2022-01-18T01:10:25.217543) battery updated to 98.28571428571428.
+2022-01-18 00:22:11,206 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20002, licesnse plate: WA96733, leaving at:2022-01-18T10:10:25.203543) battery updated to 23.0.
+2022-01-18 00:22:11,218 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20007, licesnse plate: WA29598, leaving at:2022-01-18T10:10:25.220544) battery updated to 100.
+2022-01-18 00:22:11,225 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20003, licesnse plate: WA76212, leaving at:2022-01-18T08:10:25.215544) battery updated to 100.
+2022-01-18 00:22:11,231 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20006, licesnse plate: WA22129, leaving at:2022-01-18T07:10:25.219544) battery updated to 100.
+2022-01-18 00:22:11,236 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20009, licesnse plate: WA14238, leaving at:2022-01-17T22:10:25.222545) battery updated to 91.44444444444446.
+2022-01-18 00:32:11,126 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20005, licesnse plate: WA13083, leaving at:2022-01-18T01:10:25.217543) battery updated to 98.28571428571428.
+2022-01-18 00:32:11,133 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20002, licesnse plate: WA96733, leaving at:2022-01-18T10:10:25.203543) battery updated to 23.0.
+2022-01-18 00:32:11,139 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20007, licesnse plate: WA29598, leaving at:2022-01-18T10:10:25.220544) battery updated to 100.
+2022-01-18 00:32:11,146 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20003, licesnse plate: WA76212, leaving at:2022-01-18T08:10:25.215544) battery updated to 100.
+2022-01-18 00:32:11,152 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20006, licesnse plate: WA22129, leaving at:2022-01-18T07:10:25.219544) battery updated to 100.
+2022-01-18 00:32:11,159 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20009, licesnse plate: WA14238, leaving at:2022-01-17T22:10:25.222545) battery updated to 91.44444444444446.
+2022-01-18 00:42:11,008 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20005, licesnse plate: WA13083, leaving at:2022-01-18T01:10:25.217543) charge mode changed to 0.
+2022-01-18 00:42:11,017 - Energy price predicitons for next 24 hours updated.
+2022-01-18 00:42:11,017 - Current predicions:[90.0, 190.0, 210.0, 290.0, 150.0, 119.73, 90.2, 100.0, 122.39, 450.99, 426.57, 426.57, 463.03, 460.05, 439.6, 456.47, 463.03, 412.65, 421.98, 452.42, 426.08, 349.87, 190.0, 150.0]
+2022-01-18 00:42:11,018 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20002, licesnse plate: WA96733, leaving at:2022-01-18T10:10:25.203543) charge mode changed to 1.
+2022-01-18 00:42:11,026 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20007, licesnse plate: WA29598, leaving at:2022-01-18T10:10:25.220544) charge mode changed to 0.
+2022-01-18 00:42:11,026 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20003, licesnse plate: WA76212, leaving at:2022-01-18T08:10:25.215544) charge mode changed to 0.
+2022-01-18 00:42:11,026 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20006, licesnse plate: WA22129, leaving at:2022-01-18T07:10:25.219544) charge mode changed to 0.
+2022-01-18 00:42:11,026 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20009, licesnse plate: WA14238, leaving at:2022-01-17T22:10:25.222545) charge mode changed to 0.
+2022-01-18 00:42:11,222 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20005, licesnse plate: WA13083, leaving at:2022-01-18T01:10:25.217543) battery updated to 98.28571428571428.
+2022-01-18 00:42:11,230 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20002, licesnse plate: WA96733, leaving at:2022-01-18T10:10:25.203543) battery updated to 41.51851851851852.
+2022-01-18 00:42:11,238 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20007, licesnse plate: WA29598, leaving at:2022-01-18T10:10:25.220544) battery updated to 100.0.
+2022-01-18 00:42:11,246 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20003, licesnse plate: WA76212, leaving at:2022-01-18T08:10:25.215544) battery updated to 100.0.
+2022-01-18 00:42:11,259 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20006, licesnse plate: WA22129, leaving at:2022-01-18T07:10:25.219544) battery updated to 100.0.
+2022-01-18 00:42:11,266 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20009, licesnse plate: WA14238, leaving at:2022-01-17T22:10:25.222545) battery updated to 91.44444444444446.
+2022-01-18 00:52:11,193 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20005, licesnse plate: WA13083, leaving at:2022-01-18T01:10:25.217543) battery updated to 98.28571428571428.
+2022-01-18 00:52:11,199 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20002, licesnse plate: WA96733, leaving at:2022-01-18T10:10:25.203543) battery updated to 60.03703703703704.
+2022-01-18 00:52:11,208 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20007, licesnse plate: WA29598, leaving at:2022-01-18T10:10:25.220544) battery updated to 100.0.
+2022-01-18 00:52:11,218 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20003, licesnse plate: WA76212, leaving at:2022-01-18T08:10:25.215544) battery updated to 100.0.
+2022-01-18 00:52:11,227 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20006, licesnse plate: WA22129, leaving at:2022-01-18T07:10:25.219544) battery updated to 100.0.
+2022-01-18 00:52:11,236 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20009, licesnse plate: WA14238, leaving at:2022-01-17T22:10:25.222545) battery updated to 91.44444444444446.
+2022-01-18 01:02:11,123 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20005, licesnse plate: WA13083, leaving at:2022-01-18T01:10:25.217543) battery updated to 98.28571428571428.
+2022-01-18 01:02:11,129 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20002, licesnse plate: WA96733, leaving at:2022-01-18T10:10:25.203543) battery updated to 78.55555555555556.
+2022-01-18 01:02:11,136 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20007, licesnse plate: WA29598, leaving at:2022-01-18T10:10:25.220544) battery updated to 100.0.
+2022-01-18 01:02:11,141 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20003, licesnse plate: WA76212, leaving at:2022-01-18T08:10:25.215544) battery updated to 100.0.
+2022-01-18 01:02:11,148 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20006, licesnse plate: WA22129, leaving at:2022-01-18T07:10:25.219544) battery updated to 100.0.
+2022-01-18 01:02:11,153 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20009, licesnse plate: WA14238, leaving at:2022-01-17T22:10:25.222545) battery updated to 91.44444444444446.
+2022-01-18 01:12:11,113 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20005, licesnse plate: WA13083, leaving at:2022-01-18T01:10:25.217543) battery updated to 98.28571428571428.
+2022-01-18 01:12:11,121 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20002, licesnse plate: WA96733, leaving at:2022-01-18T10:10:25.203543) battery updated to 97.07407407407408.
+2022-01-18 01:12:11,128 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20007, licesnse plate: WA29598, leaving at:2022-01-18T10:10:25.220544) battery updated to 100.0.
+2022-01-18 01:12:11,134 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20003, licesnse plate: WA76212, leaving at:2022-01-18T08:10:25.215544) battery updated to 100.0.
+2022-01-18 01:12:11,141 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20006, licesnse plate: WA22129, leaving at:2022-01-18T07:10:25.219544) battery updated to 100.0.
+2022-01-18 01:12:11,147 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20009, licesnse plate: WA14238, leaving at:2022-01-17T22:10:25.222545) battery updated to 91.44444444444446.
+2022-01-18 10:07:34,979 - Energy price predicitons for next 24 hours updated.
+2022-01-18 10:07:34,979 - Current predicions:[120.0, 150.0, 70.0, 90.0, 190.0, 210.0, 290.0, 150.0, 119.73, 90.2, 100.0, 122.39, 450.99, 426.57, 426.57, 463.03, 460.05, 439.6, 456.47, 463.03, 412.65, 421.98, 452.42, 426.08]
+2022-01-18 10:08:41,658 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20003, licesnse plate: WA76212, leaving at:2022-01-19T01:07:40.556792) charge mode changed to 0.
+2022-01-18 10:08:41,658 - new car (id: c0a83801-7e1c-1d36-817e-1c700ff20003, licesnse plate: WA76212) plugged.
+2022-01-18 10:08:41,661 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20004, licesnse plate: WA56088, leaving at:2022-01-18T12:07:40.560792) charge mode changed to 1.
+2022-01-18 10:08:41,661 - new car (id: c0a83801-7e1c-1d36-817e-1c700ff20004, licesnse plate: WA56088) plugged.
+2022-01-18 10:08:41,662 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20007, licesnse plate: WA29598, leaving at:2022-01-19T03:07:40.56779) charge mode changed to 0.
+2022-01-18 10:08:41,662 - new car (id: c0a83801-7e1c-1d36-817e-1c700ff20007, licesnse plate: WA29598) plugged.
+2022-01-18 10:08:41,665 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20002, licesnse plate: WA96733, leaving at:2022-01-19T03:07:40.524791) charge mode changed to 0.
+2022-01-18 10:08:41,666 - new car (id: c0a83801-7e1c-1d36-817e-1c700ff20002, licesnse plate: WA96733) plugged.
+2022-01-18 10:08:41,667 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20009, licesnse plate: WA14238, leaving at:2022-01-18T15:07:40.57279) charge mode changed to 0.
+2022-01-18 10:08:41,668 - new car (id: c0a83801-7e1c-1d36-817e-1c700ff20009, licesnse plate: WA14238) plugged.
+2022-01-18 10:08:41,668 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20005, licesnse plate: WA13083, leaving at:2022-01-18T18:07:40.562791) charge mode changed to 0.
+2022-01-18 10:08:41,668 - new car (id: c0a83801-7e1c-1d36-817e-1c700ff20005, licesnse plate: WA13083) plugged.
+2022-01-18 10:08:41,669 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20006, licesnse plate: WA22129, leaving at:2022-01-19T00:07:40.564791) charge mode changed to 0.
+2022-01-18 10:08:41,669 - new car (id: c0a83801-7e1c-1d36-817e-1c700ff20006, licesnse plate: WA22129) plugged.
+2022-01-18 10:08:41,669 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20008, licesnse plate: WA40199, leaving at:2022-01-18T11:07:40.571789) charge mode changed to 0.
+2022-01-18 10:08:41,669 - new car (id: c0a83801-7e1c-1d36-817e-1c700ff20008, licesnse plate: WA40199) plugged.
+2022-01-18 10:17:40,852 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20003, licesnse plate: WA76212, leaving at:2022-01-19T01:07:40.556792) battery updated to 31.0.
+2022-01-18 10:17:40,860 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20004, licesnse plate: WA56088, leaving at:2022-01-18T12:07:40.560792) battery updated to 90.88888888888889.
+2022-01-18 10:17:40,868 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20007, licesnse plate: WA29598, leaving at:2022-01-19T03:07:40.56779) battery updated to 50.0.
+2022-01-18 10:17:40,876 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20002, licesnse plate: WA96733, leaving at:2022-01-19T03:07:40.524791) battery updated to 23.0.
+2022-01-18 10:17:40,883 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20009, licesnse plate: WA14238, leaving at:2022-01-18T15:07:40.57279) battery updated to 22.0.
+2022-01-18 10:17:40,891 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20005, licesnse plate: WA13083, leaving at:2022-01-18T18:07:40.562791) battery updated to 9.0.
+2022-01-18 10:17:40,899 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20006, licesnse plate: WA22129, leaving at:2022-01-19T00:07:40.564791) battery updated to 82.0.
+2022-01-18 10:17:40,906 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20008, licesnse plate: WA40199, leaving at:2022-01-18T11:07:40.571789) battery updated to 20.0.
+2022-01-18 10:23:49,002 - Energy price predicitons for next 24 hours updated.
+2022-01-18 10:23:49,002 - Current predicions:[120.0, 150.0, 70.0, 90.0, 190.0, 210.0, 290.0, 150.0, 119.73, 90.2, 100.0, 122.39, 450.99, 426.57, 426.57, 463.03, 460.05, 439.6, 456.47, 463.03, 412.65, 421.98, 452.42, 426.08]
+2022-01-18 10:24:49,315 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20002, licesnse plate: WA96733, leaving at:2022-01-19T03:07:40.524791) charge mode changed to 0.
+2022-01-18 10:24:49,315 - new car (id: c0a83801-7e1c-1d36-817e-1c700ff20002, licesnse plate: WA96733) plugged.
+2022-01-18 10:24:49,315 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20008, licesnse plate: WA40199, leaving at:2022-01-18T11:07:40.571789) charge mode changed to 1.
+2022-01-18 10:24:49,315 - new car (id: c0a83801-7e1c-1d36-817e-1c700ff20008, licesnse plate: WA40199) plugged.
+2022-01-18 10:24:49,320 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20004, licesnse plate: WA56088, leaving at:2022-01-18T12:07:40.560792) charge mode changed to 1.
+2022-01-18 10:24:49,320 - new car (id: c0a83801-7e1c-1d36-817e-1c700ff20004, licesnse plate: WA56088) plugged.
+2022-01-18 10:24:49,321 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20005, licesnse plate: WA13083, leaving at:2022-01-18T18:07:40.562791) charge mode changed to 0.
+2022-01-18 10:24:49,321 - new car (id: c0a83801-7e1c-1d36-817e-1c700ff20005, licesnse plate: WA13083) plugged.
+2022-01-18 10:24:49,321 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20006, licesnse plate: WA22129, leaving at:2022-01-19T00:07:40.564791) charge mode changed to 0.
+2022-01-18 10:24:49,321 - new car (id: c0a83801-7e1c-1d36-817e-1c700ff20006, licesnse plate: WA22129) plugged.
+2022-01-18 10:24:49,322 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20003, licesnse plate: WA76212, leaving at:2022-01-19T01:07:40.556792) charge mode changed to 0.
+2022-01-18 10:24:49,322 - new car (id: c0a83801-7e1c-1d36-817e-1c700ff20003, licesnse plate: WA76212) plugged.
+2022-01-18 10:24:49,322 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20009, licesnse plate: WA14238, leaving at:2022-01-18T15:07:40.57279) charge mode changed to 0.
+2022-01-18 10:24:49,322 - new car (id: c0a83801-7e1c-1d36-817e-1c700ff20009, licesnse plate: WA14238) plugged.
+2022-01-18 10:24:49,323 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20007, licesnse plate: WA29598, leaving at:2022-01-19T03:07:40.56779) charge mode changed to 0.
+2022-01-18 10:24:49,323 - new car (id: c0a83801-7e1c-1d36-817e-1c700ff20007, licesnse plate: WA29598) plugged.
+2022-01-18 10:33:49,233 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20002, licesnse plate: WA96733, leaving at:2022-01-19T03:07:40.524791) battery updated to 23.0.
+2022-01-18 10:33:49,241 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20008, licesnse plate: WA40199, leaving at:2022-01-18T11:07:40.571789) battery updated to 32.43781094527363.
+2022-01-18 10:33:49,249 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20004, licesnse plate: WA56088, leaving at:2022-01-18T12:07:40.560792) battery updated to 90.88888888888889.
+2022-01-18 10:33:49,255 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20005, licesnse plate: WA13083, leaving at:2022-01-18T18:07:40.562791) battery updated to 9.0.
+2022-01-18 10:33:49,262 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20006, licesnse plate: WA22129, leaving at:2022-01-19T00:07:40.564791) battery updated to 82.0.
+2022-01-18 10:33:49,269 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20003, licesnse plate: WA76212, leaving at:2022-01-19T01:07:40.556792) battery updated to 31.0.
+2022-01-18 10:33:49,276 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20009, licesnse plate: WA14238, leaving at:2022-01-18T15:07:40.57279) battery updated to 22.0.
+2022-01-18 10:33:49,284 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20007, licesnse plate: WA29598, leaving at:2022-01-19T03:07:40.56779) battery updated to 50.0.
+2022-01-18 10:43:49,243 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20002, licesnse plate: WA96733, leaving at:2022-01-19T03:07:40.524791) battery updated to 23.0.
+2022-01-18 10:43:49,252 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20008, licesnse plate: WA40199, leaving at:2022-01-18T11:07:40.571789) battery updated to 44.875621890547265.
+2022-01-18 10:43:49,259 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20004, licesnse plate: WA56088, leaving at:2022-01-18T12:07:40.560792) battery updated to 100.
+2022-01-18 10:43:49,266 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20005, licesnse plate: WA13083, leaving at:2022-01-18T18:07:40.562791) battery updated to 9.0.
+2022-01-18 10:43:49,273 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20006, licesnse plate: WA22129, leaving at:2022-01-19T00:07:40.564791) battery updated to 82.0.
+2022-01-18 10:43:49,280 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20003, licesnse plate: WA76212, leaving at:2022-01-19T01:07:40.556792) battery updated to 31.0.
+2022-01-18 10:43:49,287 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20009, licesnse plate: WA14238, leaving at:2022-01-18T15:07:40.57279) battery updated to 22.0.
+2022-01-18 10:43:49,296 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20007, licesnse plate: WA29598, leaving at:2022-01-19T03:07:40.56779) battery updated to 50.0.
+2022-01-18 10:53:49,225 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20002, licesnse plate: WA96733, leaving at:2022-01-19T03:07:40.524791) battery updated to 23.0.
+2022-01-18 10:53:49,235 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20008, licesnse plate: WA40199, leaving at:2022-01-18T11:07:40.571789) battery updated to 57.3134328358209.
+2022-01-18 10:53:49,242 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20004, licesnse plate: WA56088, leaving at:2022-01-18T12:07:40.560792) battery updated to 100.
+2022-01-18 10:53:49,249 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20005, licesnse plate: WA13083, leaving at:2022-01-18T18:07:40.562791) battery updated to 9.0.
+2022-01-18 10:53:49,257 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20006, licesnse plate: WA22129, leaving at:2022-01-19T00:07:40.564791) battery updated to 82.0.
+2022-01-18 10:53:49,263 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20003, licesnse plate: WA76212, leaving at:2022-01-19T01:07:40.556792) battery updated to 31.0.
+2022-01-18 10:53:49,270 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20009, licesnse plate: WA14238, leaving at:2022-01-18T15:07:40.57279) battery updated to 22.0.
+2022-01-18 10:53:49,277 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20007, licesnse plate: WA29598, leaving at:2022-01-19T03:07:40.56779) battery updated to 50.0.
+2022-01-18 11:03:49,225 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20002, licesnse plate: WA96733, leaving at:2022-01-19T03:07:40.524791) battery updated to 23.0.
+2022-01-18 11:03:49,232 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20008, licesnse plate: WA40199, leaving at:2022-01-18T11:07:40.571789) battery updated to 69.75124378109453.
+2022-01-18 11:03:49,240 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20004, licesnse plate: WA56088, leaving at:2022-01-18T12:07:40.560792) battery updated to 100.
+2022-01-18 11:03:49,247 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20005, licesnse plate: WA13083, leaving at:2022-01-18T18:07:40.562791) battery updated to 9.0.
+2022-01-18 11:03:49,253 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20006, licesnse plate: WA22129, leaving at:2022-01-19T00:07:40.564791) battery updated to 82.0.
+2022-01-18 11:03:49,260 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20003, licesnse plate: WA76212, leaving at:2022-01-19T01:07:40.556792) battery updated to 31.0.
+2022-01-18 11:03:49,267 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20009, licesnse plate: WA14238, leaving at:2022-01-18T15:07:40.57279) battery updated to 22.0.
+2022-01-18 11:03:49,274 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20007, licesnse plate: WA29598, leaving at:2022-01-19T03:07:40.56779) battery updated to 50.0.
+2022-01-18 11:13:49,226 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20002, licesnse plate: WA96733, leaving at:2022-01-19T03:07:40.524791) battery updated to 23.0.
+2022-01-18 11:13:49,234 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20008, licesnse plate: WA40199, leaving at:2022-01-18T11:07:40.571789) battery updated to 82.18905472636817.
+2022-01-18 11:13:49,241 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20004, licesnse plate: WA56088, leaving at:2022-01-18T12:07:40.560792) battery updated to 100.
+2022-01-18 11:13:49,248 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20005, licesnse plate: WA13083, leaving at:2022-01-18T18:07:40.562791) battery updated to 9.0.
+2022-01-18 11:13:49,255 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20006, licesnse plate: WA22129, leaving at:2022-01-19T00:07:40.564791) battery updated to 82.0.
+2022-01-18 11:13:49,262 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20003, licesnse plate: WA76212, leaving at:2022-01-19T01:07:40.556792) battery updated to 31.0.
+2022-01-18 11:13:49,268 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20009, licesnse plate: WA14238, leaving at:2022-01-18T15:07:40.57279) battery updated to 22.0.
+2022-01-18 11:13:49,275 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20007, licesnse plate: WA29598, leaving at:2022-01-19T03:07:40.56779) battery updated to 50.0.
+2022-01-18 11:23:49,142 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20002, licesnse plate: WA96733, leaving at:2022-01-19T03:07:40.524791) charge mode changed to 0.
+2022-01-18 11:23:49,143 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20008, licesnse plate: WA40199, leaving at:2022-01-18T11:07:40.571789) charge mode changed to 0.
+2022-01-18 11:23:49,143 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20004, licesnse plate: WA56088, leaving at:2022-01-18T12:07:40.560792) charge mode changed to 0.
+2022-01-18 11:23:49,145 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20005, licesnse plate: WA13083, leaving at:2022-01-18T18:07:40.562791) charge mode changed to 0.
+2022-01-18 11:23:49,146 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20006, licesnse plate: WA22129, leaving at:2022-01-19T00:07:40.564791) charge mode changed to 0.
+2022-01-18 11:23:49,148 - Energy price predicitons for next 24 hours updated.
+2022-01-18 11:23:49,148 - Current predicions:[150.0, 70.0, 90.0, 190.0, 210.0, 290.0, 150.0, 119.73, 90.2, 100.0, 122.39, 450.99, 426.57, 426.57, 463.03, 460.05, 439.6, 456.47, 463.03, 412.65, 421.98, 452.42, 426.08, 349.87]
+2022-01-18 11:23:49,149 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20003, licesnse plate: WA76212, leaving at:2022-01-19T01:07:40.556792) charge mode changed to 0.
+2022-01-18 11:23:49,150 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20009, licesnse plate: WA14238, leaving at:2022-01-18T15:07:40.57279) charge mode changed to 0.
+2022-01-18 11:23:49,151 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20007, licesnse plate: WA29598, leaving at:2022-01-19T03:07:40.56779) charge mode changed to 0.
+2022-01-18 11:23:49,241 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20002, licesnse plate: WA96733, leaving at:2022-01-19T03:07:40.524791) battery updated to 23.0.
+2022-01-18 11:23:49,248 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20008, licesnse plate: WA40199, leaving at:2022-01-18T11:07:40.571789) battery updated to 82.18905472636817.
+2022-01-18 11:23:49,255 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20004, licesnse plate: WA56088, leaving at:2022-01-18T12:07:40.560792) battery updated to 100.0.
+2022-01-18 11:23:49,261 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20005, licesnse plate: WA13083, leaving at:2022-01-18T18:07:40.562791) battery updated to 9.0.
+2022-01-18 11:23:49,268 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20006, licesnse plate: WA22129, leaving at:2022-01-19T00:07:40.564791) battery updated to 82.0.
+2022-01-18 11:23:49,275 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20003, licesnse plate: WA76212, leaving at:2022-01-19T01:07:40.556792) battery updated to 31.0.
+2022-01-18 11:23:49,282 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20009, licesnse plate: WA14238, leaving at:2022-01-18T15:07:40.57279) battery updated to 22.0.
+2022-01-18 11:23:49,288 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20007, licesnse plate: WA29598, leaving at:2022-01-19T03:07:40.56779) battery updated to 50.0.
+2022-01-18 11:33:49,222 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20002, licesnse plate: WA96733, leaving at:2022-01-19T03:07:40.524791) battery updated to 23.0.
+2022-01-18 11:33:49,229 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20008, licesnse plate: WA40199, leaving at:2022-01-18T11:07:40.571789) battery updated to 82.18905472636817.
+2022-01-18 11:33:49,235 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20004, licesnse plate: WA56088, leaving at:2022-01-18T12:07:40.560792) battery updated to 100.0.
+2022-01-18 11:33:49,242 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20005, licesnse plate: WA13083, leaving at:2022-01-18T18:07:40.562791) battery updated to 9.0.
+2022-01-18 11:33:49,248 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20006, licesnse plate: WA22129, leaving at:2022-01-19T00:07:40.564791) battery updated to 82.0.
+2022-01-18 11:33:49,254 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20003, licesnse plate: WA76212, leaving at:2022-01-19T01:07:40.556792) battery updated to 31.0.
+2022-01-18 11:33:49,261 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20009, licesnse plate: WA14238, leaving at:2022-01-18T15:07:40.57279) battery updated to 22.0.
+2022-01-18 11:33:49,268 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20007, licesnse plate: WA29598, leaving at:2022-01-19T03:07:40.56779) battery updated to 50.0.
+2022-01-18 11:43:49,225 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20002, licesnse plate: WA96733, leaving at:2022-01-19T03:07:40.524791) battery updated to 23.0.
+2022-01-18 11:43:49,232 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20008, licesnse plate: WA40199, leaving at:2022-01-18T11:07:40.571789) battery updated to 82.18905472636817.
+2022-01-18 11:43:49,239 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20004, licesnse plate: WA56088, leaving at:2022-01-18T12:07:40.560792) battery updated to 100.0.
+2022-01-18 11:43:49,245 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20005, licesnse plate: WA13083, leaving at:2022-01-18T18:07:40.562791) battery updated to 9.0.
+2022-01-18 11:43:49,251 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20006, licesnse plate: WA22129, leaving at:2022-01-19T00:07:40.564791) battery updated to 82.0.
+2022-01-18 11:43:49,257 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20003, licesnse plate: WA76212, leaving at:2022-01-19T01:07:40.556792) battery updated to 31.0.
+2022-01-18 11:43:49,263 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20009, licesnse plate: WA14238, leaving at:2022-01-18T15:07:40.57279) battery updated to 22.0.
+2022-01-18 11:43:49,269 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20007, licesnse plate: WA29598, leaving at:2022-01-19T03:07:40.56779) battery updated to 50.0.
+2022-01-18 11:53:49,233 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20002, licesnse plate: WA96733, leaving at:2022-01-19T03:07:40.524791) battery updated to 23.0.
+2022-01-18 11:53:49,241 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20008, licesnse plate: WA40199, leaving at:2022-01-18T11:07:40.571789) battery updated to 82.18905472636817.
+2022-01-18 11:53:49,248 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20004, licesnse plate: WA56088, leaving at:2022-01-18T12:07:40.560792) battery updated to 100.0.
+2022-01-18 11:53:49,254 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20005, licesnse plate: WA13083, leaving at:2022-01-18T18:07:40.562791) battery updated to 9.0.
+2022-01-18 11:53:49,260 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20006, licesnse plate: WA22129, leaving at:2022-01-19T00:07:40.564791) battery updated to 82.0.
+2022-01-18 11:53:49,266 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20003, licesnse plate: WA76212, leaving at:2022-01-19T01:07:40.556792) battery updated to 31.0.
+2022-01-18 11:53:49,272 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20009, licesnse plate: WA14238, leaving at:2022-01-18T15:07:40.57279) battery updated to 22.0.
+2022-01-18 11:53:49,278 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20007, licesnse plate: WA29598, leaving at:2022-01-19T03:07:40.56779) battery updated to 50.0.
+2022-01-18 12:03:49,229 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20002, licesnse plate: WA96733, leaving at:2022-01-19T03:07:40.524791) battery updated to 23.0.
+2022-01-18 12:03:49,236 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20008, licesnse plate: WA40199, leaving at:2022-01-18T11:07:40.571789) battery updated to 82.18905472636817.
+2022-01-18 12:03:49,242 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20004, licesnse plate: WA56088, leaving at:2022-01-18T12:07:40.560792) battery updated to 100.0.
+2022-01-18 12:03:49,248 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20005, licesnse plate: WA13083, leaving at:2022-01-18T18:07:40.562791) battery updated to 9.0.
+2022-01-18 12:03:49,254 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20006, licesnse plate: WA22129, leaving at:2022-01-19T00:07:40.564791) battery updated to 82.0.
+2022-01-18 12:03:49,260 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20003, licesnse plate: WA76212, leaving at:2022-01-19T01:07:40.556792) battery updated to 31.0.
+2022-01-18 12:03:49,266 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20009, licesnse plate: WA14238, leaving at:2022-01-18T15:07:40.57279) battery updated to 22.0.
+2022-01-18 12:03:49,273 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20007, licesnse plate: WA29598, leaving at:2022-01-19T03:07:40.56779) battery updated to 50.0.
+2022-01-18 12:13:49,227 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20002, licesnse plate: WA96733, leaving at:2022-01-19T03:07:40.524791) battery updated to 23.0.
+2022-01-18 12:13:49,234 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20008, licesnse plate: WA40199, leaving at:2022-01-18T11:07:40.571789) battery updated to 82.18905472636817.
+2022-01-18 12:13:49,240 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20004, licesnse plate: WA56088, leaving at:2022-01-18T12:07:40.560792) battery updated to 100.0.
+2022-01-18 12:13:49,246 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20005, licesnse plate: WA13083, leaving at:2022-01-18T18:07:40.562791) battery updated to 9.0.
+2022-01-18 12:13:49,252 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20006, licesnse plate: WA22129, leaving at:2022-01-19T00:07:40.564791) battery updated to 82.0.
+2022-01-18 12:13:49,258 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20003, licesnse plate: WA76212, leaving at:2022-01-19T01:07:40.556792) battery updated to 31.0.
+2022-01-18 12:13:49,264 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20009, licesnse plate: WA14238, leaving at:2022-01-18T15:07:40.57279) battery updated to 22.0.
+2022-01-18 12:13:49,271 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20007, licesnse plate: WA29598, leaving at:2022-01-19T03:07:40.56779) battery updated to 50.0.
+2022-01-18 12:23:49,147 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20002, licesnse plate: WA96733, leaving at:2022-01-19T03:07:40.524791) charge mode changed to 0.
+2022-01-18 12:23:49,147 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20008, licesnse plate: WA40199, leaving at:2022-01-18T11:07:40.571789) charge mode changed to 0.
+2022-01-18 12:23:49,147 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20004, licesnse plate: WA56088, leaving at:2022-01-18T12:07:40.560792) charge mode changed to 0.
+2022-01-18 12:23:49,150 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20005, licesnse plate: WA13083, leaving at:2022-01-18T18:07:40.562791) charge mode changed to 0.
+2022-01-18 12:23:49,153 - Energy price predicitons for next 24 hours updated.
+2022-01-18 12:23:49,153 - Current predicions:[70.0, 90.0, 190.0, 210.0, 290.0, 150.0, 119.73, 90.2, 100.0, 122.39, 450.99, 426.57, 426.57, 463.03, 460.05, 439.6, 456.47, 463.03, 412.65, 421.98, 452.42, 426.08, 349.87, 190.0]
+2022-01-18 12:23:49,160 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20006, licesnse plate: WA22129, leaving at:2022-01-19T00:07:40.564791) charge mode changed to 0.
+2022-01-18 12:23:49,165 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20003, licesnse plate: WA76212, leaving at:2022-01-19T01:07:40.556792) charge mode changed to 1.
+2022-01-18 12:23:49,166 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20009, licesnse plate: WA14238, leaving at:2022-01-18T15:07:40.57279) charge mode changed to 1.
+2022-01-18 12:23:49,168 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20007, licesnse plate: WA29598, leaving at:2022-01-19T03:07:40.56779) charge mode changed to 1.
+2022-01-18 12:23:49,245 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20002, licesnse plate: WA96733, leaving at:2022-01-19T03:07:40.524791) battery updated to 23.0.
+2022-01-18 12:23:49,251 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20008, licesnse plate: WA40199, leaving at:2022-01-18T11:07:40.571789) battery updated to 82.18905472636817.
+2022-01-18 12:23:49,258 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20004, licesnse plate: WA56088, leaving at:2022-01-18T12:07:40.560792) battery updated to 100.0.
+2022-01-18 12:23:49,264 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20005, licesnse plate: WA13083, leaving at:2022-01-18T18:07:40.562791) battery updated to 9.0.
+2022-01-18 12:23:49,270 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20006, licesnse plate: WA22129, leaving at:2022-01-19T00:07:40.564791) battery updated to 82.0.
+2022-01-18 12:23:49,275 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20003, licesnse plate: WA76212, leaving at:2022-01-19T01:07:40.556792) battery updated to 47.66666666666667.
+2022-01-18 12:23:49,281 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20009, licesnse plate: WA14238, leaving at:2022-01-18T15:07:40.57279) battery updated to 33.574074074074076.
+2022-01-18 12:23:49,288 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20007, licesnse plate: WA29598, leaving at:2022-01-19T03:07:40.56779) battery updated to 67.73049645390071.
+2022-01-18 12:33:49,226 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20002, licesnse plate: WA96733, leaving at:2022-01-19T03:07:40.524791) battery updated to 23.0.
+2022-01-18 12:33:49,233 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20008, licesnse plate: WA40199, leaving at:2022-01-18T11:07:40.571789) battery updated to 82.18905472636817.
+2022-01-18 12:33:49,239 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20004, licesnse plate: WA56088, leaving at:2022-01-18T12:07:40.560792) battery updated to 100.0.
+2022-01-18 12:33:49,244 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20005, licesnse plate: WA13083, leaving at:2022-01-18T18:07:40.562791) battery updated to 9.0.
+2022-01-18 12:33:49,250 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20006, licesnse plate: WA22129, leaving at:2022-01-19T00:07:40.564791) battery updated to 82.0.
+2022-01-18 12:33:49,256 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20003, licesnse plate: WA76212, leaving at:2022-01-19T01:07:40.556792) battery updated to 64.33333333333334.
+2022-01-18 12:33:49,262 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20009, licesnse plate: WA14238, leaving at:2022-01-18T15:07:40.57279) battery updated to 45.14814814814815.
+2022-01-18 12:33:49,267 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20007, licesnse plate: WA29598, leaving at:2022-01-19T03:07:40.56779) battery updated to 85.46099290780143.
+2022-01-18 12:43:49,230 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20002, licesnse plate: WA96733, leaving at:2022-01-19T03:07:40.524791) battery updated to 23.0.
+2022-01-18 12:43:49,237 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20008, licesnse plate: WA40199, leaving at:2022-01-18T11:07:40.571789) battery updated to 82.18905472636817.
+2022-01-18 12:43:49,243 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20004, licesnse plate: WA56088, leaving at:2022-01-18T12:07:40.560792) battery updated to 100.0.
+2022-01-18 12:43:49,248 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20005, licesnse plate: WA13083, leaving at:2022-01-18T18:07:40.562791) battery updated to 9.0.
+2022-01-18 12:43:49,254 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20006, licesnse plate: WA22129, leaving at:2022-01-19T00:07:40.564791) battery updated to 82.0.
+2022-01-18 12:43:49,259 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20003, licesnse plate: WA76212, leaving at:2022-01-19T01:07:40.556792) battery updated to 81.00000000000001.
+2022-01-18 12:43:49,265 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20009, licesnse plate: WA14238, leaving at:2022-01-18T15:07:40.57279) battery updated to 56.72222222222223.
+2022-01-18 12:43:49,270 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20007, licesnse plate: WA29598, leaving at:2022-01-19T03:07:40.56779) battery updated to 100.
+2022-01-18 12:53:49,245 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20002, licesnse plate: WA96733, leaving at:2022-01-19T03:07:40.524791) battery updated to 23.0.
+2022-01-18 12:53:49,252 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20008, licesnse plate: WA40199, leaving at:2022-01-18T11:07:40.571789) battery updated to 82.18905472636817.
+2022-01-18 12:53:49,259 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20004, licesnse plate: WA56088, leaving at:2022-01-18T12:07:40.560792) battery updated to 100.0.
+2022-01-18 12:53:49,266 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20005, licesnse plate: WA13083, leaving at:2022-01-18T18:07:40.562791) battery updated to 9.0.
+2022-01-18 12:53:49,277 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20006, licesnse plate: WA22129, leaving at:2022-01-19T00:07:40.564791) battery updated to 82.0.
+2022-01-18 12:53:49,284 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20003, licesnse plate: WA76212, leaving at:2022-01-19T01:07:40.556792) battery updated to 97.66666666666669.
+2022-01-18 12:53:49,291 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20009, licesnse plate: WA14238, leaving at:2022-01-18T15:07:40.57279) battery updated to 68.2962962962963.
+2022-01-18 12:53:49,298 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20007, licesnse plate: WA29598, leaving at:2022-01-19T03:07:40.56779) battery updated to 100.
+2022-01-18 13:03:49,235 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20002, licesnse plate: WA96733, leaving at:2022-01-19T03:07:40.524791) battery updated to 23.0.
+2022-01-18 13:03:49,242 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20008, licesnse plate: WA40199, leaving at:2022-01-18T11:07:40.571789) battery updated to 82.18905472636817.
+2022-01-18 13:03:49,247 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20004, licesnse plate: WA56088, leaving at:2022-01-18T12:07:40.560792) battery updated to 100.0.
+2022-01-18 13:03:49,253 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20005, licesnse plate: WA13083, leaving at:2022-01-18T18:07:40.562791) battery updated to 9.0.
+2022-01-18 13:03:49,259 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20006, licesnse plate: WA22129, leaving at:2022-01-19T00:07:40.564791) battery updated to 82.0.
+2022-01-18 13:03:49,265 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20003, licesnse plate: WA76212, leaving at:2022-01-19T01:07:40.556792) battery updated to 100.
+2022-01-18 13:03:49,270 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20009, licesnse plate: WA14238, leaving at:2022-01-18T15:07:40.57279) battery updated to 79.87037037037038.
+2022-01-18 13:03:49,275 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20007, licesnse plate: WA29598, leaving at:2022-01-19T03:07:40.56779) battery updated to 100.
+2022-01-18 13:14:52,080 - Energy price predicitons for next 24 hours updated.
+2022-01-18 13:14:52,080 - Current predicions:[120.0, 150.0, 70.0, 90.0, 190.0, 210.0, 290.0, 150.0, 119.73, 90.2, 100.0, 122.39, 450.99, 426.57, 426.57, 463.03, 460.05, 439.6, 456.47, 463.03, 412.65, 421.98, 452.42, 426.08]
+2022-01-18 13:15:56,302 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20008, licesnse plate: WA40199, leaving at:2022-01-18T14:14:16.181451) charge mode changed to 1.
+2022-01-18 13:15:56,303 - new car (id: c0a83801-7e1c-1d36-817e-1c700ff20008, licesnse plate: WA40199) plugged.
+2022-01-18 13:15:56,303 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20002, licesnse plate: WA96733, leaving at:2022-01-19T06:14:16.160453) charge mode changed to 0.
+2022-01-18 13:15:56,304 - new car (id: c0a83801-7e1c-1d36-817e-1c700ff20002, licesnse plate: WA96733) plugged.
+2022-01-18 13:15:56,304 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20009, licesnse plate: WA14238, leaving at:2022-01-18T18:14:16.185451) charge mode changed to 0.
+2022-01-18 13:15:56,304 - new car (id: c0a83801-7e1c-1d36-817e-1c700ff20009, licesnse plate: WA14238) plugged.
+2022-01-18 13:15:56,305 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20003, licesnse plate: WA76212, leaving at:2022-01-19T04:14:16.17545) charge mode changed to 0.
+2022-01-18 13:15:56,305 - new car (id: c0a83801-7e1c-1d36-817e-1c700ff20003, licesnse plate: WA76212) plugged.
+2022-01-18 13:15:56,305 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20006, licesnse plate: WA22129, leaving at:2022-01-19T03:14:16.17945) charge mode changed to 0.
+2022-01-18 13:15:56,306 - new car (id: c0a83801-7e1c-1d36-817e-1c700ff20006, licesnse plate: WA22129) plugged.
+2022-01-18 13:15:56,306 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20004, licesnse plate: WA56088, leaving at:2022-01-18T15:14:16.177451) charge mode changed to 1.
+2022-01-18 13:15:56,306 - new car (id: c0a83801-7e1c-1d36-817e-1c700ff20004, licesnse plate: WA56088) plugged.
+2022-01-18 13:15:56,307 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20007, licesnse plate: WA29598, leaving at:2022-01-19T06:14:16.180452) charge mode changed to 0.
+2022-01-18 13:15:56,307 - new car (id: c0a83801-7e1c-1d36-817e-1c700ff20007, licesnse plate: WA29598) plugged.
+2022-01-18 13:15:56,307 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20005, licesnse plate: WA13083, leaving at:2022-01-18T21:14:16.178451) charge mode changed to 0.
+2022-01-18 13:15:56,308 - new car (id: c0a83801-7e1c-1d36-817e-1c700ff20005, licesnse plate: WA13083) plugged.
+2022-01-18 13:16:55,487 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20008, licesnse plate: WA40199, leaving at:2022-01-18T14:14:16.181451) battery updated to 21.243781094527364.
+2022-01-18 13:16:55,501 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20002, licesnse plate: WA96733, leaving at:2022-01-19T06:14:16.160453) battery updated to 23.0.
+2022-01-18 13:16:55,512 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20009, licesnse plate: WA14238, leaving at:2022-01-18T18:14:16.185451) battery updated to 22.0.
+2022-01-18 13:16:55,522 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20003, licesnse plate: WA76212, leaving at:2022-01-19T04:14:16.17545) battery updated to 31.0.
+2022-01-18 13:16:55,535 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20006, licesnse plate: WA22129, leaving at:2022-01-19T03:14:16.17945) battery updated to 82.0.
+2022-01-18 13:16:55,546 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20004, licesnse plate: WA56088, leaving at:2022-01-18T15:14:16.177451) battery updated to 78.38888888888889.
+2022-01-18 13:16:55,557 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20007, licesnse plate: WA29598, leaving at:2022-01-19T06:14:16.180452) battery updated to 50.0.
+2022-01-18 13:16:55,564 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20005, licesnse plate: WA13083, leaving at:2022-01-18T21:14:16.178451) battery updated to 9.0.
+2022-01-18 13:17:55,434 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20008, licesnse plate: WA40199, leaving at:2022-01-18T14:14:16.181451) battery updated to 22.487562189054728.
+2022-01-18 13:17:55,443 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20002, licesnse plate: WA96733, leaving at:2022-01-19T06:14:16.160453) battery updated to 23.0.
+2022-01-18 13:17:55,451 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20009, licesnse plate: WA14238, leaving at:2022-01-18T18:14:16.185451) battery updated to 22.0.
+2022-01-18 13:17:55,461 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20003, licesnse plate: WA76212, leaving at:2022-01-19T04:14:16.17545) battery updated to 31.0.
+2022-01-18 13:17:55,470 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20006, licesnse plate: WA22129, leaving at:2022-01-19T03:14:16.17945) battery updated to 82.0.
+2022-01-18 13:17:55,479 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20004, licesnse plate: WA56088, leaving at:2022-01-18T15:14:16.177451) battery updated to 79.77777777777777.
+2022-01-18 13:17:55,488 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20007, licesnse plate: WA29598, leaving at:2022-01-19T06:14:16.180452) battery updated to 50.0.
+2022-01-18 13:17:55,498 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20005, licesnse plate: WA13083, leaving at:2022-01-18T21:14:16.178451) battery updated to 9.0.
+2022-01-18 13:18:55,420 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20008, licesnse plate: WA40199, leaving at:2022-01-18T14:14:16.181451) battery updated to 23.731343283582092.
+2022-01-18 13:18:55,427 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20002, licesnse plate: WA96733, leaving at:2022-01-19T06:14:16.160453) battery updated to 23.0.
+2022-01-18 13:18:55,435 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20009, licesnse plate: WA14238, leaving at:2022-01-18T18:14:16.185451) battery updated to 22.0.
+2022-01-18 13:18:55,443 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20003, licesnse plate: WA76212, leaving at:2022-01-19T04:14:16.17545) battery updated to 31.0.
+2022-01-18 13:18:55,452 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20006, licesnse plate: WA22129, leaving at:2022-01-19T03:14:16.17945) battery updated to 82.0.
+2022-01-18 13:18:55,461 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20004, licesnse plate: WA56088, leaving at:2022-01-18T15:14:16.177451) battery updated to 81.16666666666666.
+2022-01-18 13:18:55,469 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20007, licesnse plate: WA29598, leaving at:2022-01-19T06:14:16.180452) battery updated to 50.0.
+2022-01-18 13:18:55,477 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20005, licesnse plate: WA13083, leaving at:2022-01-18T21:14:16.178451) battery updated to 9.0.
+2022-01-18 13:19:55,429 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20008, licesnse plate: WA40199, leaving at:2022-01-18T14:14:16.181451) battery updated to 24.975124378109456.
+2022-01-18 13:19:55,439 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20002, licesnse plate: WA96733, leaving at:2022-01-19T06:14:16.160453) battery updated to 23.0.
+2022-01-18 13:19:55,450 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20009, licesnse plate: WA14238, leaving at:2022-01-18T18:14:16.185451) battery updated to 22.0.
+2022-01-18 13:19:55,459 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20003, licesnse plate: WA76212, leaving at:2022-01-19T04:14:16.17545) battery updated to 31.0.
+2022-01-18 13:19:55,468 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20006, licesnse plate: WA22129, leaving at:2022-01-19T03:14:16.17945) battery updated to 82.0.
+2022-01-18 13:19:55,475 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20004, licesnse plate: WA56088, leaving at:2022-01-18T15:14:16.177451) battery updated to 82.55555555555554.
+2022-01-18 13:19:55,483 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20007, licesnse plate: WA29598, leaving at:2022-01-19T06:14:16.180452) battery updated to 50.0.
+2022-01-18 13:19:55,490 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20005, licesnse plate: WA13083, leaving at:2022-01-18T21:14:16.178451) battery updated to 9.0.
+2022-01-18 13:20:55,421 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20008, licesnse plate: WA40199, leaving at:2022-01-18T14:14:16.181451) battery updated to 26.21890547263682.
+2022-01-18 13:20:55,429 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20002, licesnse plate: WA96733, leaving at:2022-01-19T06:14:16.160453) battery updated to 23.0.
+2022-01-18 13:20:55,437 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20009, licesnse plate: WA14238, leaving at:2022-01-18T18:14:16.185451) battery updated to 22.0.
+2022-01-18 13:20:55,444 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20003, licesnse plate: WA76212, leaving at:2022-01-19T04:14:16.17545) battery updated to 31.0.
+2022-01-18 13:20:55,451 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20006, licesnse plate: WA22129, leaving at:2022-01-19T03:14:16.17945) battery updated to 82.0.
+2022-01-18 13:20:55,459 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20004, licesnse plate: WA56088, leaving at:2022-01-18T15:14:16.177451) battery updated to 83.94444444444443.
+2022-01-18 13:20:55,468 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20007, licesnse plate: WA29598, leaving at:2022-01-19T06:14:16.180452) battery updated to 50.0.
+2022-01-18 13:20:55,475 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20005, licesnse plate: WA13083, leaving at:2022-01-18T21:14:16.178451) battery updated to 9.0.
+2022-01-18 13:21:55,424 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20008, licesnse plate: WA40199, leaving at:2022-01-18T14:14:16.181451) battery updated to 27.462686567164184.
+2022-01-18 13:21:55,433 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20002, licesnse plate: WA96733, leaving at:2022-01-19T06:14:16.160453) battery updated to 23.0.
+2022-01-18 13:21:55,440 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20009, licesnse plate: WA14238, leaving at:2022-01-18T18:14:16.185451) battery updated to 22.0.
+2022-01-18 13:21:55,448 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20003, licesnse plate: WA76212, leaving at:2022-01-19T04:14:16.17545) battery updated to 31.0.
+2022-01-18 13:21:55,456 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20006, licesnse plate: WA22129, leaving at:2022-01-19T03:14:16.17945) battery updated to 82.0.
+2022-01-18 13:21:55,463 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20004, licesnse plate: WA56088, leaving at:2022-01-18T15:14:16.177451) battery updated to 85.33333333333331.
+2022-01-18 13:21:55,471 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20007, licesnse plate: WA29598, leaving at:2022-01-19T06:14:16.180452) battery updated to 50.0.
+2022-01-18 13:21:55,477 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20005, licesnse plate: WA13083, leaving at:2022-01-18T21:14:16.178451) battery updated to 9.0.
+2022-01-18 13:22:55,406 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20008, licesnse plate: WA40199, leaving at:2022-01-18T14:14:16.181451) battery updated to 28.706467661691548.
+2022-01-18 13:22:55,414 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20002, licesnse plate: WA96733, leaving at:2022-01-19T06:14:16.160453) battery updated to 23.0.
+2022-01-18 13:22:55,423 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20009, licesnse plate: WA14238, leaving at:2022-01-18T18:14:16.185451) battery updated to 22.0.
+2022-01-18 13:22:55,431 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20003, licesnse plate: WA76212, leaving at:2022-01-19T04:14:16.17545) battery updated to 31.0.
+2022-01-18 13:22:55,438 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20006, licesnse plate: WA22129, leaving at:2022-01-19T03:14:16.17945) battery updated to 82.0.
+2022-01-18 13:22:55,447 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20004, licesnse plate: WA56088, leaving at:2022-01-18T15:14:16.177451) battery updated to 86.7222222222222.
+2022-01-18 13:22:55,454 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20007, licesnse plate: WA29598, leaving at:2022-01-19T06:14:16.180452) battery updated to 50.0.
+2022-01-18 13:22:55,461 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20005, licesnse plate: WA13083, leaving at:2022-01-18T21:14:16.178451) battery updated to 9.0.
+2022-01-18 13:23:55,420 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20008, licesnse plate: WA40199, leaving at:2022-01-18T14:14:16.181451) battery updated to 29.95024875621891.
+2022-01-18 13:23:55,430 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20002, licesnse plate: WA96733, leaving at:2022-01-19T06:14:16.160453) battery updated to 23.0.
+2022-01-18 13:23:55,438 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20009, licesnse plate: WA14238, leaving at:2022-01-18T18:14:16.185451) battery updated to 22.0.
+2022-01-18 13:23:55,447 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20003, licesnse plate: WA76212, leaving at:2022-01-19T04:14:16.17545) battery updated to 31.0.
+2022-01-18 13:23:55,456 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20006, licesnse plate: WA22129, leaving at:2022-01-19T03:14:16.17945) battery updated to 82.0.
+2022-01-18 13:23:55,464 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20004, licesnse plate: WA56088, leaving at:2022-01-18T15:14:16.177451) battery updated to 88.11111111111109.
+2022-01-18 13:23:55,472 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20007, licesnse plate: WA29598, leaving at:2022-01-19T06:14:16.180452) battery updated to 50.0.
+2022-01-18 13:23:55,479 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20005, licesnse plate: WA13083, leaving at:2022-01-18T21:14:16.178451) battery updated to 9.0.
+2022-01-18 13:24:55,414 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20008, licesnse plate: WA40199, leaving at:2022-01-18T14:14:16.181451) battery updated to 31.194029850746276.
+2022-01-18 13:24:55,424 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20002, licesnse plate: WA96733, leaving at:2022-01-19T06:14:16.160453) battery updated to 23.0.
+2022-01-18 13:24:55,437 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20009, licesnse plate: WA14238, leaving at:2022-01-18T18:14:16.185451) battery updated to 22.0.
+2022-01-18 13:24:55,446 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20003, licesnse plate: WA76212, leaving at:2022-01-19T04:14:16.17545) battery updated to 31.0.
+2022-01-18 13:24:55,457 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20006, licesnse plate: WA22129, leaving at:2022-01-19T03:14:16.17945) battery updated to 82.0.
+2022-01-18 13:24:55,466 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20004, licesnse plate: WA56088, leaving at:2022-01-18T15:14:16.177451) battery updated to 89.49999999999997.
+2022-01-18 13:24:55,474 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20007, licesnse plate: WA29598, leaving at:2022-01-19T06:14:16.180452) battery updated to 50.0.
+2022-01-18 13:24:55,482 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20005, licesnse plate: WA13083, leaving at:2022-01-18T21:14:16.178451) battery updated to 9.0.
+2022-01-18 13:26:13,972 - Energy price predicitons for next 24 hours updated.
+2022-01-18 13:26:13,973 - Current predicions:[120.0, 150.0, 70.0, 90.0, 190.0, 210.0, 290.0, 150.0, 119.73, 90.2, 100.0, 122.39, 450.99, 426.57, 426.57, 463.03, 460.05, 439.6, 456.47, 463.03, 412.65, 421.98, 452.42, 426.08]
+2022-01-18 13:27:14,305 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20003, licesnse plate: WA76212, leaving at:2022-01-19T04:14:16.17545) charge mode changed to 0.
+2022-01-18 13:27:14,305 - new car (id: c0a83801-7e1c-1d36-817e-1c700ff20003, licesnse plate: WA76212) plugged.
+2022-01-18 13:27:14,306 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20007, licesnse plate: WA29598, leaving at:2022-01-19T06:14:16.180452) charge mode changed to 0.
+2022-01-18 13:27:14,306 - new car (id: c0a83801-7e1c-1d36-817e-1c700ff20007, licesnse plate: WA29598) plugged.
+2022-01-18 13:27:14,307 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20009, licesnse plate: WA14238, leaving at:2022-01-18T18:14:16.185451) charge mode changed to 0.
+2022-01-18 13:27:14,307 - new car (id: c0a83801-7e1c-1d36-817e-1c700ff20009, licesnse plate: WA14238) plugged.
+2022-01-18 13:27:14,307 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20005, licesnse plate: WA13083, leaving at:2022-01-18T21:14:16.178451) charge mode changed to 0.
+2022-01-18 13:27:14,308 - new car (id: c0a83801-7e1c-1d36-817e-1c700ff20005, licesnse plate: WA13083) plugged.
+2022-01-18 13:27:14,308 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20008, licesnse plate: WA40199, leaving at:2022-01-18T14:14:16.181451) charge mode changed to 1.
+2022-01-18 13:27:14,308 - new car (id: c0a83801-7e1c-1d36-817e-1c700ff20008, licesnse plate: WA40199) plugged.
+2022-01-18 13:27:14,308 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20002, licesnse plate: WA96733, leaving at:2022-01-19T06:14:16.160453) charge mode changed to 0.
+2022-01-18 13:27:14,309 - new car (id: c0a83801-7e1c-1d36-817e-1c700ff20002, licesnse plate: WA96733) plugged.
+2022-01-18 13:27:14,309 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20006, licesnse plate: WA22129, leaving at:2022-01-19T03:14:16.17945) charge mode changed to 0.
+2022-01-18 13:27:14,309 - new car (id: c0a83801-7e1c-1d36-817e-1c700ff20006, licesnse plate: WA22129) plugged.
+2022-01-18 13:27:14,310 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20004, licesnse plate: WA56088, leaving at:2022-01-18T15:14:16.177451) charge mode changed to 1.
+2022-01-18 13:27:14,310 - new car (id: c0a83801-7e1c-1d36-817e-1c700ff20004, licesnse plate: WA56088) plugged.
+2022-01-18 13:28:14,352 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20003, licesnse plate: WA76212, leaving at:2022-01-19T04:14:16.17545) battery updated to 31.0.
+2022-01-18 13:28:14,375 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20007, licesnse plate: WA29598, leaving at:2022-01-19T06:14:16.180452) battery updated to 50.0.
+2022-01-18 13:28:14,394 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20009, licesnse plate: WA14238, leaving at:2022-01-18T18:14:16.185451) battery updated to 22.0.
+2022-01-18 13:28:14,407 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20005, licesnse plate: WA13083, leaving at:2022-01-18T21:14:16.178451) battery updated to 9.0.
+2022-01-18 13:28:14,421 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20008, licesnse plate: WA40199, leaving at:2022-01-18T14:14:16.181451) battery updated to 21.243781094527364.
+2022-01-18 13:28:14,435 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20002, licesnse plate: WA96733, leaving at:2022-01-19T06:14:16.160453) battery updated to 23.0.
+2022-01-18 13:28:14,447 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20006, licesnse plate: WA22129, leaving at:2022-01-19T03:14:16.17945) battery updated to 82.0.
+2022-01-18 13:28:14,459 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20004, licesnse plate: WA56088, leaving at:2022-01-18T15:14:16.177451) battery updated to 78.38888888888889.
+2022-01-18 13:29:14,245 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20003, licesnse plate: WA76212, leaving at:2022-01-19T04:14:16.17545) battery updated to 31.0.
+2022-01-18 13:29:14,257 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20007, licesnse plate: WA29598, leaving at:2022-01-19T06:14:16.180452) battery updated to 50.0.
+2022-01-18 13:29:14,269 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20009, licesnse plate: WA14238, leaving at:2022-01-18T18:14:16.185451) battery updated to 22.0.
+2022-01-18 13:29:14,280 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20005, licesnse plate: WA13083, leaving at:2022-01-18T21:14:16.178451) battery updated to 9.0.
+2022-01-18 13:29:14,292 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20008, licesnse plate: WA40199, leaving at:2022-01-18T14:14:16.181451) battery updated to 22.487562189054728.
+2022-01-18 13:29:14,302 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20002, licesnse plate: WA96733, leaving at:2022-01-19T06:14:16.160453) battery updated to 23.0.
+2022-01-18 13:29:14,311 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20006, licesnse plate: WA22129, leaving at:2022-01-19T03:14:16.17945) battery updated to 82.0.
+2022-01-18 13:29:14,322 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20004, licesnse plate: WA56088, leaving at:2022-01-18T15:14:16.177451) battery updated to 79.77777777777777.
+2022-01-18 13:32:01,035 - Energy price predicitons for next 24 hours updated.
+2022-01-18 13:32:01,035 - Current predicions:[120.0, 150.0, 70.0, 90.0, 190.0, 210.0, 290.0, 150.0, 119.73, 90.2, 100.0, 122.39, 450.99, 426.57, 426.57, 463.03, 460.05, 439.6, 456.47, 463.03, 412.65, 421.98, 452.42, 426.08]
+2022-01-18 13:33:01,650 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20005, licesnse plate: WA13083, leaving at:2022-01-18T21:31:58.883513) charge mode changed to 0.
+2022-01-18 13:33:01,650 - new car (id: c0a83801-7e1c-1d36-817e-1c700ff20005, licesnse plate: WA13083) plugged.
+2022-01-18 13:33:01,651 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20003, licesnse plate: WA76212, leaving at:2022-01-19T04:31:58.881514) charge mode changed to 0.
+2022-01-18 13:33:01,651 - new car (id: c0a83801-7e1c-1d36-817e-1c700ff20003, licesnse plate: WA76212) plugged.
+2022-01-18 13:33:01,651 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20009, licesnse plate: WA14238, leaving at:2022-01-18T18:31:58.902514) charge mode changed to 0.
+2022-01-18 13:33:01,651 - new car (id: c0a83801-7e1c-1d36-817e-1c700ff20009, licesnse plate: WA14238) plugged.
+2022-01-18 13:33:01,651 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20008, licesnse plate: WA40199, leaving at:2022-01-18T14:31:58.896513) charge mode changed to 1.
+2022-01-18 13:33:01,652 - new car (id: c0a83801-7e1c-1d36-817e-1c700ff20008, licesnse plate: WA40199) plugged.
+2022-01-18 13:33:01,652 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20007, licesnse plate: WA29598, leaving at:2022-01-19T06:31:58.892512) charge mode changed to 0.
+2022-01-18 13:33:01,652 - new car (id: c0a83801-7e1c-1d36-817e-1c700ff20007, licesnse plate: WA29598) plugged.
+2022-01-18 13:33:01,653 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20002, licesnse plate: WA96733, leaving at:2022-01-19T06:31:58.831512) charge mode changed to 0.
+2022-01-18 13:33:01,653 - new car (id: c0a83801-7e1c-1d36-817e-1c700ff20002, licesnse plate: WA96733) plugged.
+2022-01-18 13:33:01,653 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20004, licesnse plate: WA56088, leaving at:2022-01-18T15:31:58.882514) charge mode changed to 1.
+2022-01-18 13:33:01,654 - new car (id: c0a83801-7e1c-1d36-817e-1c700ff20004, licesnse plate: WA56088) plugged.
+2022-01-18 13:33:01,654 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20006, licesnse plate: WA22129, leaving at:2022-01-19T03:31:58.890513) charge mode changed to 0.
+2022-01-18 13:33:01,654 - new car (id: c0a83801-7e1c-1d36-817e-1c700ff20006, licesnse plate: WA22129) plugged.
+2022-01-18 13:42:01,479 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20005, licesnse plate: WA13083, leaving at:2022-01-18T21:31:58.883513) battery updated to 9.0.
+2022-01-18 13:42:01,489 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20003, licesnse plate: WA76212, leaving at:2022-01-19T04:31:58.881514) battery updated to 31.0.
+2022-01-18 13:42:01,498 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20009, licesnse plate: WA14238, leaving at:2022-01-18T18:31:58.902514) battery updated to 22.0.
+2022-01-18 13:42:01,511 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20008, licesnse plate: WA40199, leaving at:2022-01-18T14:31:58.896513) battery updated to 32.43781094527363.
+2022-01-18 13:42:01,520 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20007, licesnse plate: WA29598, leaving at:2022-01-19T06:31:58.892512) battery updated to 50.0.
+2022-01-18 13:42:01,530 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20002, licesnse plate: WA96733, leaving at:2022-01-19T06:31:58.831512) battery updated to 23.0.
+2022-01-18 13:42:01,539 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20004, licesnse plate: WA56088, leaving at:2022-01-18T15:31:58.882514) battery updated to 90.88888888888889.
+2022-01-18 13:42:01,549 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20006, licesnse plate: WA22129, leaving at:2022-01-19T03:31:58.890513) battery updated to 82.0.
+2022-01-18 13:52:01,423 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20005, licesnse plate: WA13083, leaving at:2022-01-18T21:31:58.883513) battery updated to 9.0.
+2022-01-18 13:52:01,433 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20003, licesnse plate: WA76212, leaving at:2022-01-19T04:31:58.881514) battery updated to 31.0.
+2022-01-18 13:52:01,442 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20009, licesnse plate: WA14238, leaving at:2022-01-18T18:31:58.902514) battery updated to 22.0.
+2022-01-18 13:52:01,451 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20008, licesnse plate: WA40199, leaving at:2022-01-18T14:31:58.896513) battery updated to 44.875621890547265.
+2022-01-18 13:52:01,461 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20007, licesnse plate: WA29598, leaving at:2022-01-19T06:31:58.892512) battery updated to 50.0.
+2022-01-18 13:52:01,470 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20002, licesnse plate: WA96733, leaving at:2022-01-19T06:31:58.831512) battery updated to 23.0.
+2022-01-18 13:52:01,479 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20004, licesnse plate: WA56088, leaving at:2022-01-18T15:31:58.882514) battery updated to 100.
+2022-01-18 13:52:01,489 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20006, licesnse plate: WA22129, leaving at:2022-01-19T03:31:58.890513) battery updated to 82.0.
+2022-01-18 14:02:01,425 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20005, licesnse plate: WA13083, leaving at:2022-01-18T21:31:58.883513) battery updated to 9.0.
+2022-01-18 14:02:01,439 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20003, licesnse plate: WA76212, leaving at:2022-01-19T04:31:58.881514) battery updated to 31.0.
+2022-01-18 14:02:01,449 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20009, licesnse plate: WA14238, leaving at:2022-01-18T18:31:58.902514) battery updated to 22.0.
+2022-01-18 14:02:01,458 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20008, licesnse plate: WA40199, leaving at:2022-01-18T14:31:58.896513) battery updated to 57.3134328358209.
+2022-01-18 14:02:01,467 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20007, licesnse plate: WA29598, leaving at:2022-01-19T06:31:58.892512) battery updated to 50.0.
+2022-01-18 14:02:01,481 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20002, licesnse plate: WA96733, leaving at:2022-01-19T06:31:58.831512) battery updated to 23.0.
+2022-01-18 14:02:01,491 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20004, licesnse plate: WA56088, leaving at:2022-01-18T15:31:58.882514) battery updated to 100.
+2022-01-18 14:02:01,504 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20006, licesnse plate: WA22129, leaving at:2022-01-19T03:31:58.890513) battery updated to 82.0.
+2022-01-18 14:12:01,438 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20005, licesnse plate: WA13083, leaving at:2022-01-18T21:31:58.883513) battery updated to 9.0.
+2022-01-18 14:12:01,447 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20003, licesnse plate: WA76212, leaving at:2022-01-19T04:31:58.881514) battery updated to 31.0.
+2022-01-18 14:12:01,457 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20009, licesnse plate: WA14238, leaving at:2022-01-18T18:31:58.902514) battery updated to 22.0.
+2022-01-18 14:12:01,468 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20008, licesnse plate: WA40199, leaving at:2022-01-18T14:31:58.896513) battery updated to 69.75124378109453.
+2022-01-18 14:12:01,476 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20007, licesnse plate: WA29598, leaving at:2022-01-19T06:31:58.892512) battery updated to 50.0.
+2022-01-18 14:12:01,485 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20002, licesnse plate: WA96733, leaving at:2022-01-19T06:31:58.831512) battery updated to 23.0.
+2022-01-18 14:12:01,497 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20004, licesnse plate: WA56088, leaving at:2022-01-18T15:31:58.882514) battery updated to 100.
+2022-01-18 14:12:01,506 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20006, licesnse plate: WA22129, leaving at:2022-01-19T03:31:58.890513) battery updated to 82.0.
+2022-01-18 14:20:01,450 - car (id:c0a83801-7e6d-1c19-817e-6d57857e0001, licesnse plate: WA78121, leaving at:2022-01-18T23:19:06) charge mode changed to 0.
+2022-01-18 14:20:01,450 - new car (id: c0a83801-7e6d-1c19-817e-6d57857e0001, licesnse plate: WA78121) plugged.
+2022-01-18 14:22:01,425 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20005, licesnse plate: WA13083, leaving at:2022-01-18T21:31:58.883513) battery updated to 9.0.
+2022-01-18 14:22:01,437 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20003, licesnse plate: WA76212, leaving at:2022-01-19T04:31:58.881514) battery updated to 31.0.
+2022-01-18 14:22:01,448 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20009, licesnse plate: WA14238, leaving at:2022-01-18T18:31:58.902514) battery updated to 22.0.
+2022-01-18 14:22:01,459 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20008, licesnse plate: WA40199, leaving at:2022-01-18T14:31:58.896513) battery updated to 82.18905472636817.
+2022-01-18 14:22:01,467 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20007, licesnse plate: WA29598, leaving at:2022-01-19T06:31:58.892512) battery updated to 50.0.
+2022-01-18 14:22:01,477 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20002, licesnse plate: WA96733, leaving at:2022-01-19T06:31:58.831512) battery updated to 23.0.
+2022-01-18 14:22:01,488 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20004, licesnse plate: WA56088, leaving at:2022-01-18T15:31:58.882514) battery updated to 100.
+2022-01-18 14:22:01,501 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20006, licesnse plate: WA22129, leaving at:2022-01-19T03:31:58.890513) battery updated to 82.0.
+2022-01-18 14:22:01,512 - car (id:c0a83801-7e6d-1c19-817e-6d57857e0001, licesnse plate: WA78121, leaving at:2022-01-18T23:19:06) battery updated to 35.0.
+2022-01-18 14:32:01,331 - Energy price predicitons for next 24 hours updated.
+2022-01-18 14:32:01,331 - Current predicions:[150.0, 70.0, 90.0, 190.0, 210.0, 290.0, 150.0, 119.73, 90.2, 100.0, 122.39, 450.99, 426.57, 426.57, 463.03, 460.05, 439.6, 456.47, 463.03, 412.65, 421.98, 452.42, 426.08, 349.87]
+2022-01-18 14:32:01,332 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20005, licesnse plate: WA13083, leaving at:2022-01-18T21:31:58.883513) charge mode changed to 0.
+2022-01-18 14:32:01,334 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20003, licesnse plate: WA76212, leaving at:2022-01-19T04:31:58.881514) charge mode changed to 0.
+2022-01-18 14:32:01,335 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20009, licesnse plate: WA14238, leaving at:2022-01-18T18:31:58.902514) charge mode changed to 0.
+2022-01-18 14:32:01,335 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20008, licesnse plate: WA40199, leaving at:2022-01-18T14:31:58.896513) charge mode changed to 0.
+2022-01-18 14:32:01,337 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20007, licesnse plate: WA29598, leaving at:2022-01-19T06:31:58.892512) charge mode changed to 0.
+2022-01-18 14:32:01,338 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20002, licesnse plate: WA96733, leaving at:2022-01-19T06:31:58.831512) charge mode changed to 0.
+2022-01-18 14:32:01,338 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20004, licesnse plate: WA56088, leaving at:2022-01-18T15:31:58.882514) charge mode changed to 0.
+2022-01-18 14:32:01,340 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20006, licesnse plate: WA22129, leaving at:2022-01-19T03:31:58.890513) charge mode changed to 0.
+2022-01-18 14:32:01,342 - car (id:c0a83801-7e6d-1c19-817e-6d57857e0001, licesnse plate: WA78121, leaving at:2022-01-18T23:19:06) charge mode changed to 0.
+2022-01-18 14:32:01,436 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20005, licesnse plate: WA13083, leaving at:2022-01-18T21:31:58.883513) battery updated to 9.0.
+2022-01-18 14:32:01,447 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20003, licesnse plate: WA76212, leaving at:2022-01-19T04:31:58.881514) battery updated to 31.0.
+2022-01-18 14:32:01,457 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20009, licesnse plate: WA14238, leaving at:2022-01-18T18:31:58.902514) battery updated to 22.0.
+2022-01-18 14:32:01,465 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20008, licesnse plate: WA40199, leaving at:2022-01-18T14:31:58.896513) battery updated to 82.18905472636817.
+2022-01-18 14:32:01,475 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20007, licesnse plate: WA29598, leaving at:2022-01-19T06:31:58.892512) battery updated to 50.0.
+2022-01-18 14:32:01,483 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20002, licesnse plate: WA96733, leaving at:2022-01-19T06:31:58.831512) battery updated to 23.0.
+2022-01-18 14:32:01,492 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20004, licesnse plate: WA56088, leaving at:2022-01-18T15:31:58.882514) battery updated to 100.0.
+2022-01-18 14:32:01,501 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20006, licesnse plate: WA22129, leaving at:2022-01-19T03:31:58.890513) battery updated to 82.0.
+2022-01-18 14:32:01,514 - car (id:c0a83801-7e6d-1c19-817e-6d57857e0001, licesnse plate: WA78121, leaving at:2022-01-18T23:19:06) battery updated to 35.0.
+2022-01-18 14:42:01,468 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20005, licesnse plate: WA13083, leaving at:2022-01-18T21:31:58.883513) battery updated to 9.0.
+2022-01-18 14:42:01,493 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20003, licesnse plate: WA76212, leaving at:2022-01-19T04:31:58.881514) battery updated to 31.0.
+2022-01-18 14:42:01,507 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20009, licesnse plate: WA14238, leaving at:2022-01-18T18:31:58.902514) battery updated to 22.0.
+2022-01-18 14:42:01,563 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20008, licesnse plate: WA40199, leaving at:2022-01-18T14:31:58.896513) battery updated to 82.18905472636817.
+2022-01-18 14:42:01,575 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20007, licesnse plate: WA29598, leaving at:2022-01-19T06:31:58.892512) battery updated to 50.0.
+2022-01-18 14:42:01,597 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20002, licesnse plate: WA96733, leaving at:2022-01-19T06:31:58.831512) battery updated to 23.0.
+2022-01-18 14:42:01,608 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20004, licesnse plate: WA56088, leaving at:2022-01-18T15:31:58.882514) battery updated to 100.0.
+2022-01-18 14:42:01,617 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20006, licesnse plate: WA22129, leaving at:2022-01-19T03:31:58.890513) battery updated to 82.0.
+2022-01-18 14:42:01,627 - car (id:c0a83801-7e6d-1c19-817e-6d57857e0001, licesnse plate: WA78121, leaving at:2022-01-18T23:19:06) battery updated to 35.0.
+2022-01-18 14:52:01,493 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20005, licesnse plate: WA13083, leaving at:2022-01-18T21:31:58.883513) battery updated to 9.0.
+2022-01-18 14:52:01,511 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20003, licesnse plate: WA76212, leaving at:2022-01-19T04:31:58.881514) battery updated to 31.0.
+2022-01-18 14:52:01,524 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20009, licesnse plate: WA14238, leaving at:2022-01-18T18:31:58.902514) battery updated to 22.0.
+2022-01-18 14:52:01,535 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20008, licesnse plate: WA40199, leaving at:2022-01-18T14:31:58.896513) battery updated to 82.18905472636817.
+2022-01-18 14:52:01,551 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20007, licesnse plate: WA29598, leaving at:2022-01-19T06:31:58.892512) battery updated to 50.0.
+2022-01-18 14:52:01,563 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20002, licesnse plate: WA96733, leaving at:2022-01-19T06:31:58.831512) battery updated to 23.0.
+2022-01-18 14:52:01,575 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20004, licesnse plate: WA56088, leaving at:2022-01-18T15:31:58.882514) battery updated to 100.0.
+2022-01-18 14:52:01,587 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20006, licesnse plate: WA22129, leaving at:2022-01-19T03:31:58.890513) battery updated to 82.0.
+2022-01-18 14:52:01,603 - car (id:c0a83801-7e6d-1c19-817e-6d57857e0001, licesnse plate: WA78121, leaving at:2022-01-18T23:19:06) battery updated to 35.0.
+2022-01-18 15:02:01,482 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20005, licesnse plate: WA13083, leaving at:2022-01-18T21:31:58.883513) battery updated to 9.0.
+2022-01-18 15:02:01,502 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20003, licesnse plate: WA76212, leaving at:2022-01-19T04:31:58.881514) battery updated to 31.0.
+2022-01-18 15:02:01,515 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20009, licesnse plate: WA14238, leaving at:2022-01-18T18:31:58.902514) battery updated to 22.0.
+2022-01-18 15:02:01,531 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20008, licesnse plate: WA40199, leaving at:2022-01-18T14:31:58.896513) battery updated to 82.18905472636817.
+2022-01-18 15:02:01,574 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20007, licesnse plate: WA29598, leaving at:2022-01-19T06:31:58.892512) battery updated to 50.0.
+2022-01-18 15:02:01,587 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20002, licesnse plate: WA96733, leaving at:2022-01-19T06:31:58.831512) battery updated to 23.0.
+2022-01-18 15:02:01,598 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20004, licesnse plate: WA56088, leaving at:2022-01-18T15:31:58.882514) battery updated to 100.0.
+2022-01-18 15:02:01,608 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20006, licesnse plate: WA22129, leaving at:2022-01-19T03:31:58.890513) battery updated to 82.0.
+2022-01-18 15:02:01,618 - car (id:c0a83801-7e6d-1c19-817e-6d57857e0001, licesnse plate: WA78121, leaving at:2022-01-18T23:19:06) battery updated to 35.0.
+2022-01-18 15:12:01,479 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20005, licesnse plate: WA13083, leaving at:2022-01-18T21:31:58.883513) battery updated to 9.0.
+2022-01-18 15:12:01,489 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20003, licesnse plate: WA76212, leaving at:2022-01-19T04:31:58.881514) battery updated to 31.0.
+2022-01-18 15:12:01,507 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20009, licesnse plate: WA14238, leaving at:2022-01-18T18:31:58.902514) battery updated to 22.0.
+2022-01-18 15:12:01,523 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20008, licesnse plate: WA40199, leaving at:2022-01-18T14:31:58.896513) battery updated to 82.18905472636817.
+2022-01-18 15:12:01,538 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20007, licesnse plate: WA29598, leaving at:2022-01-19T06:31:58.892512) battery updated to 50.0.
+2022-01-18 15:12:01,564 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20002, licesnse plate: WA96733, leaving at:2022-01-19T06:31:58.831512) battery updated to 23.0.
+2022-01-18 15:12:01,578 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20004, licesnse plate: WA56088, leaving at:2022-01-18T15:31:58.882514) battery updated to 100.0.
+2022-01-18 15:12:01,590 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20006, licesnse plate: WA22129, leaving at:2022-01-19T03:31:58.890513) battery updated to 82.0.
+2022-01-18 15:12:01,624 - car (id:c0a83801-7e6d-1c19-817e-6d57857e0001, licesnse plate: WA78121, leaving at:2022-01-18T23:19:06) battery updated to 35.0.
+2022-01-18 15:22:01,440 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20005, licesnse plate: WA13083, leaving at:2022-01-18T21:31:58.883513) battery updated to 9.0.
+2022-01-18 15:22:01,447 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20003, licesnse plate: WA76212, leaving at:2022-01-19T04:31:58.881514) battery updated to 31.0.
+2022-01-18 15:22:01,455 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20009, licesnse plate: WA14238, leaving at:2022-01-18T18:31:58.902514) battery updated to 22.0.
+2022-01-18 15:22:01,464 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20008, licesnse plate: WA40199, leaving at:2022-01-18T14:31:58.896513) battery updated to 82.18905472636817.
+2022-01-18 15:22:01,470 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20007, licesnse plate: WA29598, leaving at:2022-01-19T06:31:58.892512) battery updated to 50.0.
+2022-01-18 15:22:01,477 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20002, licesnse plate: WA96733, leaving at:2022-01-19T06:31:58.831512) battery updated to 23.0.
+2022-01-18 15:22:01,485 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20004, licesnse plate: WA56088, leaving at:2022-01-18T15:31:58.882514) battery updated to 100.0.
+2022-01-18 15:22:01,492 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20006, licesnse plate: WA22129, leaving at:2022-01-19T03:31:58.890513) battery updated to 82.0.
+2022-01-18 15:22:01,501 - car (id:c0a83801-7e6d-1c19-817e-6d57857e0001, licesnse plate: WA78121, leaving at:2022-01-18T23:19:06) battery updated to 35.0.
+2022-01-18 15:32:01,340 - Energy price predicitons for next 24 hours updated.
+2022-01-18 15:32:01,341 - Current predicions:[70.0, 90.0, 190.0, 210.0, 290.0, 150.0, 119.73, 90.2, 100.0, 122.39, 450.99, 426.57, 426.57, 463.03, 460.05, 439.6, 456.47, 463.03, 412.65, 421.98, 452.42, 426.08, 349.87, 190.0]
+2022-01-18 15:32:01,356 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20005, licesnse plate: WA13083, leaving at:2022-01-18T21:31:58.883513) charge mode changed to 1.
+2022-01-18 15:32:01,357 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20003, licesnse plate: WA76212, leaving at:2022-01-19T04:31:58.881514) charge mode changed to 1.
+2022-01-18 15:32:01,358 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20009, licesnse plate: WA14238, leaving at:2022-01-18T18:31:58.902514) charge mode changed to 1.
+2022-01-18 15:32:01,358 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20008, licesnse plate: WA40199, leaving at:2022-01-18T14:31:58.896513) charge mode changed to 0.
+2022-01-18 15:32:01,363 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20007, licesnse plate: WA29598, leaving at:2022-01-19T06:31:58.892512) charge mode changed to 1.
+2022-01-18 15:32:01,365 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20002, licesnse plate: WA96733, leaving at:2022-01-19T06:31:58.831512) charge mode changed to 1.
+2022-01-18 15:32:01,366 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20004, licesnse plate: WA56088, leaving at:2022-01-18T15:31:58.882514) charge mode changed to 0.
+2022-01-18 15:32:01,367 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20006, licesnse plate: WA22129, leaving at:2022-01-19T03:31:58.890513) charge mode changed to 1.
+2022-01-18 15:32:01,368 - car (id:c0a83801-7e6d-1c19-817e-6d57857e0001, licesnse plate: WA78121, leaving at:2022-01-18T23:19:06) charge mode changed to 1.
+2022-01-18 15:32:01,463 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20005, licesnse plate: WA13083, leaving at:2022-01-18T21:31:58.883513) battery updated to 23.88095238095238.
+2022-01-18 15:32:01,472 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20003, licesnse plate: WA76212, leaving at:2022-01-19T04:31:58.881514) battery updated to 47.66666666666667.
+2022-01-18 15:32:01,479 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20009, licesnse plate: WA14238, leaving at:2022-01-18T18:31:58.902514) battery updated to 33.574074074074076.
+2022-01-18 15:32:01,496 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20008, licesnse plate: WA40199, leaving at:2022-01-18T14:31:58.896513) battery updated to 82.18905472636817.
+2022-01-18 15:32:01,505 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20007, licesnse plate: WA29598, leaving at:2022-01-19T06:31:58.892512) battery updated to 67.73049645390071.
+2022-01-18 15:32:01,513 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20002, licesnse plate: WA96733, leaving at:2022-01-19T06:31:58.831512) battery updated to 41.51851851851852.
+2022-01-18 15:32:01,523 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20004, licesnse plate: WA56088, leaving at:2022-01-18T15:31:58.882514) battery updated to 100.0.
+2022-01-18 15:32:01,534 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20006, licesnse plate: WA22129, leaving at:2022-01-19T03:31:58.890513) battery updated to 100.
+2022-01-18 15:32:01,541 - car (id:c0a83801-7e6d-1c19-817e-6d57857e0001, licesnse plate: WA78121, leaving at:2022-01-18T23:19:06) battery updated to 56.36752136752136.
+2022-01-18 15:42:01,437 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20005, licesnse plate: WA13083, leaving at:2022-01-18T21:31:58.883513) battery updated to 38.76190476190476.
+2022-01-18 15:42:01,445 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20003, licesnse plate: WA76212, leaving at:2022-01-19T04:31:58.881514) battery updated to 64.33333333333334.
+2022-01-18 15:42:01,452 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20009, licesnse plate: WA14238, leaving at:2022-01-18T18:31:58.902514) battery updated to 45.14814814814815.
+2022-01-18 15:42:01,459 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20008, licesnse plate: WA40199, leaving at:2022-01-18T14:31:58.896513) battery updated to 82.18905472636817.
+2022-01-18 15:42:01,471 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20007, licesnse plate: WA29598, leaving at:2022-01-19T06:31:58.892512) battery updated to 85.46099290780143.
+2022-01-18 15:42:01,478 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20002, licesnse plate: WA96733, leaving at:2022-01-19T06:31:58.831512) battery updated to 60.03703703703704.
+2022-01-18 15:42:01,484 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20004, licesnse plate: WA56088, leaving at:2022-01-18T15:31:58.882514) battery updated to 100.0.
+2022-01-18 15:42:01,491 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20006, licesnse plate: WA22129, leaving at:2022-01-19T03:31:58.890513) battery updated to 100.
+2022-01-18 15:42:01,499 - car (id:c0a83801-7e6d-1c19-817e-6d57857e0001, licesnse plate: WA78121, leaving at:2022-01-18T23:19:06) battery updated to 77.73504273504273.
+2022-01-18 15:52:01,417 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20005, licesnse plate: WA13083, leaving at:2022-01-18T21:31:58.883513) battery updated to 53.64285714285714.
+2022-01-18 15:52:01,424 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20003, licesnse plate: WA76212, leaving at:2022-01-19T04:31:58.881514) battery updated to 81.00000000000001.
+2022-01-18 15:52:01,431 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20009, licesnse plate: WA14238, leaving at:2022-01-18T18:31:58.902514) battery updated to 56.72222222222223.
+2022-01-18 15:52:01,438 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20008, licesnse plate: WA40199, leaving at:2022-01-18T14:31:58.896513) battery updated to 82.18905472636817.
+2022-01-18 15:52:01,445 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20007, licesnse plate: WA29598, leaving at:2022-01-19T06:31:58.892512) battery updated to 100.
+2022-01-18 15:52:01,454 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20002, licesnse plate: WA96733, leaving at:2022-01-19T06:31:58.831512) battery updated to 78.55555555555556.
+2022-01-18 15:52:01,461 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20004, licesnse plate: WA56088, leaving at:2022-01-18T15:31:58.882514) battery updated to 100.0.
+2022-01-18 15:52:01,468 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20006, licesnse plate: WA22129, leaving at:2022-01-19T03:31:58.890513) battery updated to 100.
+2022-01-18 15:52:01,475 - car (id:c0a83801-7e6d-1c19-817e-6d57857e0001, licesnse plate: WA78121, leaving at:2022-01-18T23:19:06) battery updated to 99.10256410256409.
+2022-01-18 16:02:01,428 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20005, licesnse plate: WA13083, leaving at:2022-01-18T21:31:58.883513) battery updated to 68.52380952380952.
+2022-01-18 16:02:01,435 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20003, licesnse plate: WA76212, leaving at:2022-01-19T04:31:58.881514) battery updated to 97.66666666666669.
+2022-01-18 16:02:01,443 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20009, licesnse plate: WA14238, leaving at:2022-01-18T18:31:58.902514) battery updated to 68.2962962962963.
+2022-01-18 16:02:01,449 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20008, licesnse plate: WA40199, leaving at:2022-01-18T14:31:58.896513) battery updated to 82.18905472636817.
+2022-01-18 16:02:01,456 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20007, licesnse plate: WA29598, leaving at:2022-01-19T06:31:58.892512) battery updated to 100.
+2022-01-18 16:02:01,463 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20002, licesnse plate: WA96733, leaving at:2022-01-19T06:31:58.831512) battery updated to 97.07407407407408.
+2022-01-18 16:02:01,470 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20004, licesnse plate: WA56088, leaving at:2022-01-18T15:31:58.882514) battery updated to 100.0.
+2022-01-18 16:02:01,477 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20006, licesnse plate: WA22129, leaving at:2022-01-19T03:31:58.890513) battery updated to 100.
+2022-01-18 16:02:01,483 - car (id:c0a83801-7e6d-1c19-817e-6d57857e0001, licesnse plate: WA78121, leaving at:2022-01-18T23:19:06) battery updated to 100.
+2022-01-18 16:12:01,411 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20005, licesnse plate: WA13083, leaving at:2022-01-18T21:31:58.883513) battery updated to 83.4047619047619.
+2022-01-18 16:12:01,418 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20003, licesnse plate: WA76212, leaving at:2022-01-19T04:31:58.881514) battery updated to 100.
+2022-01-18 16:12:01,425 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20009, licesnse plate: WA14238, leaving at:2022-01-18T18:31:58.902514) battery updated to 79.87037037037038.
+2022-01-18 16:12:01,432 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20008, licesnse plate: WA40199, leaving at:2022-01-18T14:31:58.896513) battery updated to 82.18905472636817.
+2022-01-18 16:12:01,439 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20007, licesnse plate: WA29598, leaving at:2022-01-19T06:31:58.892512) battery updated to 100.
+2022-01-18 16:12:01,446 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20002, licesnse plate: WA96733, leaving at:2022-01-19T06:31:58.831512) battery updated to 100.
+2022-01-18 16:12:01,452 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20004, licesnse plate: WA56088, leaving at:2022-01-18T15:31:58.882514) battery updated to 100.0.
+2022-01-18 16:12:01,459 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20006, licesnse plate: WA22129, leaving at:2022-01-19T03:31:58.890513) battery updated to 100.
+2022-01-18 16:12:01,465 - car (id:c0a83801-7e6d-1c19-817e-6d57857e0001, licesnse plate: WA78121, leaving at:2022-01-18T23:19:06) battery updated to 100.
+2022-01-18 16:22:01,428 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20005, licesnse plate: WA13083, leaving at:2022-01-18T21:31:58.883513) battery updated to 98.28571428571428.
+2022-01-18 16:22:01,437 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20003, licesnse plate: WA76212, leaving at:2022-01-19T04:31:58.881514) battery updated to 100.
+2022-01-18 16:22:01,444 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20009, licesnse plate: WA14238, leaving at:2022-01-18T18:31:58.902514) battery updated to 91.44444444444446.
+2022-01-18 16:22:01,451 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20008, licesnse plate: WA40199, leaving at:2022-01-18T14:31:58.896513) battery updated to 82.18905472636817.
+2022-01-18 16:22:01,458 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20007, licesnse plate: WA29598, leaving at:2022-01-19T06:31:58.892512) battery updated to 100.
+2022-01-18 16:22:01,465 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20002, licesnse plate: WA96733, leaving at:2022-01-19T06:31:58.831512) battery updated to 100.
+2022-01-18 16:22:01,472 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20004, licesnse plate: WA56088, leaving at:2022-01-18T15:31:58.882514) battery updated to 100.0.
+2022-01-18 16:22:01,479 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20006, licesnse plate: WA22129, leaving at:2022-01-19T03:31:58.890513) battery updated to 100.
+2022-01-18 16:22:01,485 - car (id:c0a83801-7e6d-1c19-817e-6d57857e0001, licesnse plate: WA78121, leaving at:2022-01-18T23:19:06) battery updated to 100.
+2022-01-18 16:32:01,329 - Energy price predicitons for next 24 hours updated.
+2022-01-18 16:32:01,330 - Current predicions:[90.0, 190.0, 210.0, 290.0, 150.0, 119.73, 90.2, 100.0, 122.39, 450.99, 426.57, 426.57, 463.03, 460.05, 439.6, 456.47, 463.03, 412.65, 421.98, 452.42, 426.08, 349.87, 190.0, 150.0]
+2022-01-18 16:32:01,330 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20005, licesnse plate: WA13083, leaving at:2022-01-18T21:31:58.883513) charge mode changed to 0.
+2022-01-18 16:32:01,330 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20003, licesnse plate: WA76212, leaving at:2022-01-19T04:31:58.881514) charge mode changed to 0.
+2022-01-18 16:32:01,330 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20009, licesnse plate: WA14238, leaving at:2022-01-18T18:31:58.902514) charge mode changed to 0.
+2022-01-18 16:32:01,330 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20008, licesnse plate: WA40199, leaving at:2022-01-18T14:31:58.896513) charge mode changed to 0.
+2022-01-18 16:32:01,330 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20007, licesnse plate: WA29598, leaving at:2022-01-19T06:31:58.892512) charge mode changed to 0.
+2022-01-18 16:32:01,330 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20002, licesnse plate: WA96733, leaving at:2022-01-19T06:31:58.831512) charge mode changed to 0.
+2022-01-18 16:32:01,331 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20004, licesnse plate: WA56088, leaving at:2022-01-18T15:31:58.882514) charge mode changed to 0.
+2022-01-18 16:32:01,331 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20006, licesnse plate: WA22129, leaving at:2022-01-19T03:31:58.890513) charge mode changed to 0.
+2022-01-18 16:32:01,331 - car (id:c0a83801-7e6d-1c19-817e-6d57857e0001, licesnse plate: WA78121, leaving at:2022-01-18T23:19:06) charge mode changed to 0.
+2022-01-18 16:32:01,423 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20005, licesnse plate: WA13083, leaving at:2022-01-18T21:31:58.883513) battery updated to 98.28571428571428.
+2022-01-18 16:32:01,430 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20003, licesnse plate: WA76212, leaving at:2022-01-19T04:31:58.881514) battery updated to 100.0.
+2022-01-18 16:32:01,436 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20009, licesnse plate: WA14238, leaving at:2022-01-18T18:31:58.902514) battery updated to 91.44444444444446.
+2022-01-18 16:32:01,443 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20008, licesnse plate: WA40199, leaving at:2022-01-18T14:31:58.896513) battery updated to 82.18905472636817.
+2022-01-18 16:32:01,450 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20007, licesnse plate: WA29598, leaving at:2022-01-19T06:31:58.892512) battery updated to 100.0.
+2022-01-18 16:32:01,456 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20002, licesnse plate: WA96733, leaving at:2022-01-19T06:31:58.831512) battery updated to 100.0.
+2022-01-18 16:32:01,463 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20004, licesnse plate: WA56088, leaving at:2022-01-18T15:31:58.882514) battery updated to 100.0.
+2022-01-18 16:32:01,470 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20006, licesnse plate: WA22129, leaving at:2022-01-19T03:31:58.890513) battery updated to 100.0.
+2022-01-18 16:32:01,478 - car (id:c0a83801-7e6d-1c19-817e-6d57857e0001, licesnse plate: WA78121, leaving at:2022-01-18T23:19:06) battery updated to 100.0.
+2022-01-18 16:42:01,422 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20005, licesnse plate: WA13083, leaving at:2022-01-18T21:31:58.883513) battery updated to 98.28571428571428.
+2022-01-18 16:42:01,429 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20003, licesnse plate: WA76212, leaving at:2022-01-19T04:31:58.881514) battery updated to 100.0.
+2022-01-18 16:42:01,439 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20009, licesnse plate: WA14238, leaving at:2022-01-18T18:31:58.902514) battery updated to 91.44444444444446.
+2022-01-18 16:42:01,445 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20008, licesnse plate: WA40199, leaving at:2022-01-18T14:31:58.896513) battery updated to 82.18905472636817.
+2022-01-18 16:42:01,453 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20007, licesnse plate: WA29598, leaving at:2022-01-19T06:31:58.892512) battery updated to 100.0.
+2022-01-18 16:42:01,459 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20002, licesnse plate: WA96733, leaving at:2022-01-19T06:31:58.831512) battery updated to 100.0.
+2022-01-18 16:42:01,466 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20004, licesnse plate: WA56088, leaving at:2022-01-18T15:31:58.882514) battery updated to 100.0.
+2022-01-18 16:42:01,472 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20006, licesnse plate: WA22129, leaving at:2022-01-19T03:31:58.890513) battery updated to 100.0.
+2022-01-18 16:42:01,479 - car (id:c0a83801-7e6d-1c19-817e-6d57857e0001, licesnse plate: WA78121, leaving at:2022-01-18T23:19:06) battery updated to 100.0.
+2022-01-18 16:52:01,414 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20005, licesnse plate: WA13083, leaving at:2022-01-18T21:31:58.883513) battery updated to 98.28571428571428.
+2022-01-18 16:52:01,422 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20003, licesnse plate: WA76212, leaving at:2022-01-19T04:31:58.881514) battery updated to 100.0.
+2022-01-18 16:52:01,428 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20009, licesnse plate: WA14238, leaving at:2022-01-18T18:31:58.902514) battery updated to 91.44444444444446.
+2022-01-18 16:52:01,435 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20008, licesnse plate: WA40199, leaving at:2022-01-18T14:31:58.896513) battery updated to 82.18905472636817.
+2022-01-18 16:52:01,442 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20007, licesnse plate: WA29598, leaving at:2022-01-19T06:31:58.892512) battery updated to 100.0.
+2022-01-18 16:52:01,449 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20002, licesnse plate: WA96733, leaving at:2022-01-19T06:31:58.831512) battery updated to 100.0.
+2022-01-18 16:52:01,456 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20004, licesnse plate: WA56088, leaving at:2022-01-18T15:31:58.882514) battery updated to 100.0.
+2022-01-18 16:52:01,462 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20006, licesnse plate: WA22129, leaving at:2022-01-19T03:31:58.890513) battery updated to 100.0.
+2022-01-18 16:52:01,469 - car (id:c0a83801-7e6d-1c19-817e-6d57857e0001, licesnse plate: WA78121, leaving at:2022-01-18T23:19:06) battery updated to 100.0.
+2022-01-18 17:02:01,428 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20005, licesnse plate: WA13083, leaving at:2022-01-18T21:31:58.883513) battery updated to 98.28571428571428.
+2022-01-18 17:02:01,436 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20003, licesnse plate: WA76212, leaving at:2022-01-19T04:31:58.881514) battery updated to 100.0.
+2022-01-18 17:02:01,444 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20009, licesnse plate: WA14238, leaving at:2022-01-18T18:31:58.902514) battery updated to 91.44444444444446.
+2022-01-18 17:02:01,451 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20008, licesnse plate: WA40199, leaving at:2022-01-18T14:31:58.896513) battery updated to 82.18905472636817.
+2022-01-18 17:02:01,460 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20007, licesnse plate: WA29598, leaving at:2022-01-19T06:31:58.892512) battery updated to 100.0.
+2022-01-18 17:02:01,467 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20002, licesnse plate: WA96733, leaving at:2022-01-19T06:31:58.831512) battery updated to 100.0.
+2022-01-18 17:02:01,476 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20004, licesnse plate: WA56088, leaving at:2022-01-18T15:31:58.882514) battery updated to 100.0.
+2022-01-18 17:02:01,482 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20006, licesnse plate: WA22129, leaving at:2022-01-19T03:31:58.890513) battery updated to 100.0.
+2022-01-18 17:02:01,491 - car (id:c0a83801-7e6d-1c19-817e-6d57857e0001, licesnse plate: WA78121, leaving at:2022-01-18T23:19:06) battery updated to 100.0.
+2022-01-18 17:12:01,418 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20005, licesnse plate: WA13083, leaving at:2022-01-18T21:31:58.883513) battery updated to 98.28571428571428.
+2022-01-18 17:12:01,426 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20003, licesnse plate: WA76212, leaving at:2022-01-19T04:31:58.881514) battery updated to 100.0.
+2022-01-18 17:12:01,435 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20009, licesnse plate: WA14238, leaving at:2022-01-18T18:31:58.902514) battery updated to 91.44444444444446.
+2022-01-18 17:12:01,442 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20008, licesnse plate: WA40199, leaving at:2022-01-18T14:31:58.896513) battery updated to 82.18905472636817.
+2022-01-18 17:12:01,450 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20007, licesnse plate: WA29598, leaving at:2022-01-19T06:31:58.892512) battery updated to 100.0.
+2022-01-18 17:12:01,457 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20002, licesnse plate: WA96733, leaving at:2022-01-19T06:31:58.831512) battery updated to 100.0.
+2022-01-18 17:12:01,464 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20004, licesnse plate: WA56088, leaving at:2022-01-18T15:31:58.882514) battery updated to 100.0.
+2022-01-18 17:12:01,471 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20006, licesnse plate: WA22129, leaving at:2022-01-19T03:31:58.890513) battery updated to 100.0.
+2022-01-18 17:12:01,478 - car (id:c0a83801-7e6d-1c19-817e-6d57857e0001, licesnse plate: WA78121, leaving at:2022-01-18T23:19:06) battery updated to 100.0.
+2022-01-18 17:22:01,431 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20005, licesnse plate: WA13083, leaving at:2022-01-18T21:31:58.883513) battery updated to 98.28571428571428.
+2022-01-18 17:22:01,439 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20003, licesnse plate: WA76212, leaving at:2022-01-19T04:31:58.881514) battery updated to 100.0.
+2022-01-18 17:22:01,446 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20009, licesnse plate: WA14238, leaving at:2022-01-18T18:31:58.902514) battery updated to 91.44444444444446.
+2022-01-18 17:22:01,453 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20008, licesnse plate: WA40199, leaving at:2022-01-18T14:31:58.896513) battery updated to 82.18905472636817.
+2022-01-18 17:22:01,460 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20007, licesnse plate: WA29598, leaving at:2022-01-19T06:31:58.892512) battery updated to 100.0.
+2022-01-18 17:22:01,467 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20002, licesnse plate: WA96733, leaving at:2022-01-19T06:31:58.831512) battery updated to 100.0.
+2022-01-18 17:22:01,474 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20004, licesnse plate: WA56088, leaving at:2022-01-18T15:31:58.882514) battery updated to 100.0.
+2022-01-18 17:22:01,480 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20006, licesnse plate: WA22129, leaving at:2022-01-19T03:31:58.890513) battery updated to 100.0.
+2022-01-18 17:22:01,487 - car (id:c0a83801-7e6d-1c19-817e-6d57857e0001, licesnse plate: WA78121, leaving at:2022-01-18T23:19:06) battery updated to 100.0.
+2022-01-18 17:32:01,337 - Energy price predicitons for next 24 hours updated.
+2022-01-18 17:32:01,339 - Current predicions:[190.0, 210.0, 290.0, 150.0, 119.73, 90.2, 100.0, 122.39, 450.99, 426.57, 426.57, 463.03, 460.05, 439.6, 456.47, 463.03, 412.65, 421.98, 452.42, 426.08, 349.87, 190.0, 150.0, 78.0]
+2022-01-18 17:32:01,339 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20005, licesnse plate: WA13083, leaving at:2022-01-18T21:31:58.883513) charge mode changed to 0.
+2022-01-18 17:32:01,339 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20003, licesnse plate: WA76212, leaving at:2022-01-19T04:31:58.881514) charge mode changed to 0.
+2022-01-18 17:32:01,341 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20009, licesnse plate: WA14238, leaving at:2022-01-18T18:31:58.902514) charge mode changed to 0.
+2022-01-18 17:32:01,342 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20008, licesnse plate: WA40199, leaving at:2022-01-18T14:31:58.896513) charge mode changed to 0.
+2022-01-18 17:32:01,342 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20007, licesnse plate: WA29598, leaving at:2022-01-19T06:31:58.892512) charge mode changed to 0.
+2022-01-18 17:32:01,342 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20002, licesnse plate: WA96733, leaving at:2022-01-19T06:31:58.831512) charge mode changed to 0.
+2022-01-18 17:32:01,342 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20004, licesnse plate: WA56088, leaving at:2022-01-18T15:31:58.882514) charge mode changed to 0.
+2022-01-18 17:32:01,343 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20006, licesnse plate: WA22129, leaving at:2022-01-19T03:31:58.890513) charge mode changed to 0.
+2022-01-18 17:32:01,343 - car (id:c0a83801-7e6d-1c19-817e-6d57857e0001, licesnse plate: WA78121, leaving at:2022-01-18T23:19:06) charge mode changed to 0.
+2022-01-18 17:32:01,526 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20005, licesnse plate: WA13083, leaving at:2022-01-18T21:31:58.883513) battery updated to 98.28571428571428.
+2022-01-18 17:32:01,540 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20003, licesnse plate: WA76212, leaving at:2022-01-19T04:31:58.881514) battery updated to 100.0.
+2022-01-18 17:32:01,549 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20009, licesnse plate: WA14238, leaving at:2022-01-18T18:31:58.902514) battery updated to 91.44444444444446.
+2022-01-18 17:32:01,558 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20008, licesnse plate: WA40199, leaving at:2022-01-18T14:31:58.896513) battery updated to 82.18905472636817.
+2022-01-18 17:32:01,572 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20007, licesnse plate: WA29598, leaving at:2022-01-19T06:31:58.892512) battery updated to 100.0.
+2022-01-18 17:32:01,582 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20002, licesnse plate: WA96733, leaving at:2022-01-19T06:31:58.831512) battery updated to 100.0.
+2022-01-18 17:32:01,591 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20004, licesnse plate: WA56088, leaving at:2022-01-18T15:31:58.882514) battery updated to 100.0.
+2022-01-18 17:32:01,598 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20006, licesnse plate: WA22129, leaving at:2022-01-19T03:31:58.890513) battery updated to 100.0.
+2022-01-18 17:32:01,608 - car (id:c0a83801-7e6d-1c19-817e-6d57857e0001, licesnse plate: WA78121, leaving at:2022-01-18T23:19:06) battery updated to 100.0.
+2022-01-18 17:42:01,504 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20005, licesnse plate: WA13083, leaving at:2022-01-18T21:31:58.883513) battery updated to 98.28571428571428.
+2022-01-18 17:42:01,514 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20003, licesnse plate: WA76212, leaving at:2022-01-19T04:31:58.881514) battery updated to 100.0.
+2022-01-18 17:42:01,526 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20009, licesnse plate: WA14238, leaving at:2022-01-18T18:31:58.902514) battery updated to 91.44444444444446.
+2022-01-18 17:42:01,537 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20008, licesnse plate: WA40199, leaving at:2022-01-18T14:31:58.896513) battery updated to 82.18905472636817.
+2022-01-18 17:42:01,547 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20007, licesnse plate: WA29598, leaving at:2022-01-19T06:31:58.892512) battery updated to 100.0.
+2022-01-18 17:42:01,556 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20002, licesnse plate: WA96733, leaving at:2022-01-19T06:31:58.831512) battery updated to 100.0.
+2022-01-18 17:42:01,567 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20004, licesnse plate: WA56088, leaving at:2022-01-18T15:31:58.882514) battery updated to 100.0.
+2022-01-18 17:42:01,578 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20006, licesnse plate: WA22129, leaving at:2022-01-19T03:31:58.890513) battery updated to 100.0.
+2022-01-18 17:42:01,587 - car (id:c0a83801-7e6d-1c19-817e-6d57857e0001, licesnse plate: WA78121, leaving at:2022-01-18T23:19:06) battery updated to 100.0.
+2022-01-18 17:52:01,579 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20005, licesnse plate: WA13083, leaving at:2022-01-18T21:31:58.883513) battery updated to 98.28571428571428.
+2022-01-18 17:52:01,595 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20003, licesnse plate: WA76212, leaving at:2022-01-19T04:31:58.881514) battery updated to 100.0.
+2022-01-18 17:52:01,604 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20009, licesnse plate: WA14238, leaving at:2022-01-18T18:31:58.902514) battery updated to 91.44444444444446.
+2022-01-18 17:52:01,614 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20008, licesnse plate: WA40199, leaving at:2022-01-18T14:31:58.896513) battery updated to 82.18905472636817.
+2022-01-18 17:52:01,627 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20007, licesnse plate: WA29598, leaving at:2022-01-19T06:31:58.892512) battery updated to 100.0.
+2022-01-18 17:52:01,633 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20002, licesnse plate: WA96733, leaving at:2022-01-19T06:31:58.831512) battery updated to 100.0.
+2022-01-18 17:52:01,653 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20004, licesnse plate: WA56088, leaving at:2022-01-18T15:31:58.882514) battery updated to 100.0.
+2022-01-18 17:52:01,664 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20006, licesnse plate: WA22129, leaving at:2022-01-19T03:31:58.890513) battery updated to 100.0.
+2022-01-18 17:52:01,674 - car (id:c0a83801-7e6d-1c19-817e-6d57857e0001, licesnse plate: WA78121, leaving at:2022-01-18T23:19:06) battery updated to 100.0.
+2022-01-18 18:02:01,477 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20005, licesnse plate: WA13083, leaving at:2022-01-18T21:31:58.883513) battery updated to 98.28571428571428.
+2022-01-18 18:02:01,489 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20003, licesnse plate: WA76212, leaving at:2022-01-19T04:31:58.881514) battery updated to 100.0.
+2022-01-18 18:02:01,501 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20009, licesnse plate: WA14238, leaving at:2022-01-18T18:31:58.902514) battery updated to 91.44444444444446.
+2022-01-18 18:02:01,510 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20008, licesnse plate: WA40199, leaving at:2022-01-18T14:31:58.896513) battery updated to 82.18905472636817.
+2022-01-18 18:02:01,519 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20007, licesnse plate: WA29598, leaving at:2022-01-19T06:31:58.892512) battery updated to 100.0.
+2022-01-18 18:02:01,530 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20002, licesnse plate: WA96733, leaving at:2022-01-19T06:31:58.831512) battery updated to 100.0.
+2022-01-18 18:02:01,541 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20004, licesnse plate: WA56088, leaving at:2022-01-18T15:31:58.882514) battery updated to 100.0.
+2022-01-18 18:02:01,550 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20006, licesnse plate: WA22129, leaving at:2022-01-19T03:31:58.890513) battery updated to 100.0.
+2022-01-18 18:02:01,559 - car (id:c0a83801-7e6d-1c19-817e-6d57857e0001, licesnse plate: WA78121, leaving at:2022-01-18T23:19:06) battery updated to 100.0.
+2022-01-18 18:50:29,098 - Energy price predicitons for next 24 hours updated.
+2022-01-18 18:50:29,098 - Current predicions:[210.0, 290.0, 150.0, 119.73, 90.2, 100.0, 122.39, 450.99, 426.57, 426.57, 463.03, 460.05, 439.6, 456.47, 463.03, 412.65, 421.98, 452.42, 426.08, 349.87, 190.0, 150.0, 78.0, 150.0]
+2022-01-18 18:51:29,385 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20003, licesnse plate: WA76212, leaving at:2022-01-19T04:31:58.881514) charge mode changed to 0.
+2022-01-18 18:51:29,385 - new car (id: c0a83801-7e1c-1d36-817e-1c700ff20003, licesnse plate: WA76212) plugged.
+2022-01-18 18:51:29,386 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20005, licesnse plate: WA13083, leaving at:2022-01-18T21:31:58.883513) charge mode changed to 1.
+2022-01-18 18:51:29,386 - new car (id: c0a83801-7e1c-1d36-817e-1c700ff20005, licesnse plate: WA13083) plugged.
+2022-01-18 18:51:29,386 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20006, licesnse plate: WA22129, leaving at:2022-01-19T03:31:58.890513) charge mode changed to 0.
+2022-01-18 18:51:29,387 - new car (id: c0a83801-7e1c-1d36-817e-1c700ff20006, licesnse plate: WA22129) plugged.
+2022-01-18 18:51:29,387 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20007, licesnse plate: WA29598, leaving at:2022-01-19T06:31:58.892512) charge mode changed to 0.
+2022-01-18 18:51:29,387 - new car (id: c0a83801-7e1c-1d36-817e-1c700ff20007, licesnse plate: WA29598) plugged.
+2022-01-18 18:51:29,388 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20002, licesnse plate: WA96733, leaving at:2022-01-19T06:31:58.831512) charge mode changed to 0.
+2022-01-18 18:51:29,388 - new car (id: c0a83801-7e1c-1d36-817e-1c700ff20002, licesnse plate: WA96733) plugged.
+2022-01-18 18:51:29,389 - car (id:c0a83801-7e6d-1c19-817e-6d57857e0001, licesnse plate: WA78121, leaving at:2022-01-18T23:19:06) charge mode changed to 0.
+2022-01-18 18:51:29,389 - new car (id: c0a83801-7e6d-1c19-817e-6d57857e0001, licesnse plate: WA78121) plugged.
+2022-01-18 19:00:29,385 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20003, licesnse plate: WA76212, leaving at:2022-01-19T04:31:58.881514) battery updated to 100.0.
+2022-01-18 19:00:29,394 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20005, licesnse plate: WA13083, leaving at:2022-01-18T21:31:58.883513) battery updated to 100.
+2022-01-18 19:00:29,402 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20006, licesnse plate: WA22129, leaving at:2022-01-19T03:31:58.890513) battery updated to 100.0.
+2022-01-18 19:00:29,410 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20007, licesnse plate: WA29598, leaving at:2022-01-19T06:31:58.892512) battery updated to 100.0.
+2022-01-18 19:00:29,419 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20002, licesnse plate: WA96733, leaving at:2022-01-19T06:31:58.831512) battery updated to 100.0.
+2022-01-18 19:00:29,426 - car (id:c0a83801-7e6d-1c19-817e-6d57857e0001, licesnse plate: WA78121, leaving at:2022-01-18T23:19:06) battery updated to 100.0.
+2022-01-18 19:10:29,351 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20003, licesnse plate: WA76212, leaving at:2022-01-19T04:31:58.881514) battery updated to 100.0.
+2022-01-18 19:10:29,358 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20005, licesnse plate: WA13083, leaving at:2022-01-18T21:31:58.883513) battery updated to 100.
+2022-01-18 19:10:29,364 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20006, licesnse plate: WA22129, leaving at:2022-01-19T03:31:58.890513) battery updated to 100.0.
+2022-01-18 19:10:29,371 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20007, licesnse plate: WA29598, leaving at:2022-01-19T06:31:58.892512) battery updated to 100.0.
+2022-01-18 19:10:29,378 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20002, licesnse plate: WA96733, leaving at:2022-01-19T06:31:58.831512) battery updated to 100.0.
+2022-01-18 19:10:29,385 - car (id:c0a83801-7e6d-1c19-817e-6d57857e0001, licesnse plate: WA78121, leaving at:2022-01-18T23:19:06) battery updated to 100.0.
+2022-01-18 19:20:29,356 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20003, licesnse plate: WA76212, leaving at:2022-01-19T04:31:58.881514) battery updated to 100.0.
+2022-01-18 19:20:29,364 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20005, licesnse plate: WA13083, leaving at:2022-01-18T21:31:58.883513) battery updated to 100.
+2022-01-18 19:20:29,371 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20006, licesnse plate: WA22129, leaving at:2022-01-19T03:31:58.890513) battery updated to 100.0.
+2022-01-18 19:20:29,377 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20007, licesnse plate: WA29598, leaving at:2022-01-19T06:31:58.892512) battery updated to 100.0.
+2022-01-18 19:20:29,384 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20002, licesnse plate: WA96733, leaving at:2022-01-19T06:31:58.831512) battery updated to 100.0.
+2022-01-18 19:20:29,391 - car (id:c0a83801-7e6d-1c19-817e-6d57857e0001, licesnse plate: WA78121, leaving at:2022-01-18T23:19:06) battery updated to 100.0.
+2022-01-18 19:30:29,357 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20003, licesnse plate: WA76212, leaving at:2022-01-19T04:31:58.881514) battery updated to 100.0.
+2022-01-18 19:30:29,363 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20005, licesnse plate: WA13083, leaving at:2022-01-18T21:31:58.883513) battery updated to 100.
+2022-01-18 19:30:29,371 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20006, licesnse plate: WA22129, leaving at:2022-01-19T03:31:58.890513) battery updated to 100.0.
+2022-01-18 19:30:29,378 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20007, licesnse plate: WA29598, leaving at:2022-01-19T06:31:58.892512) battery updated to 100.0.
+2022-01-18 19:30:29,385 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20002, licesnse plate: WA96733, leaving at:2022-01-19T06:31:58.831512) battery updated to 100.0.
+2022-01-18 19:30:29,391 - car (id:c0a83801-7e6d-1c19-817e-6d57857e0001, licesnse plate: WA78121, leaving at:2022-01-18T23:19:06) battery updated to 100.0.
+2022-01-18 19:40:29,352 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20003, licesnse plate: WA76212, leaving at:2022-01-19T04:31:58.881514) battery updated to 100.0.
+2022-01-18 19:40:29,360 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20005, licesnse plate: WA13083, leaving at:2022-01-18T21:31:58.883513) battery updated to 100.
+2022-01-18 19:40:29,366 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20006, licesnse plate: WA22129, leaving at:2022-01-19T03:31:58.890513) battery updated to 100.0.
+2022-01-18 19:40:29,372 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20007, licesnse plate: WA29598, leaving at:2022-01-19T06:31:58.892512) battery updated to 100.0.
+2022-01-18 19:40:29,378 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20002, licesnse plate: WA96733, leaving at:2022-01-19T06:31:58.831512) battery updated to 100.0.
+2022-01-18 19:40:29,386 - car (id:c0a83801-7e6d-1c19-817e-6d57857e0001, licesnse plate: WA78121, leaving at:2022-01-18T23:19:06) battery updated to 100.0.
+2022-01-18 19:50:29,293 - Energy price predicitons for next 24 hours updated.
+2022-01-18 19:50:29,293 - Current predicions:[290.0, 150.0, 119.73, 90.2, 100.0, 122.39, 450.99, 426.57, 426.57, 463.03, 460.05, 439.6, 456.47, 463.03, 412.65, 421.98, 452.42, 426.08, 349.87, 190.0, 150.0, 78.0, 150.0, 150.0]
+2022-01-18 19:50:29,305 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20003, licesnse plate: WA76212, leaving at:2022-01-19T04:31:58.881514) charge mode changed to 0.
+2022-01-18 19:50:29,413 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20003, licesnse plate: WA76212, leaving at:2022-01-19T04:31:58.881514) battery updated to 100.0.
+2022-01-18 19:50:29,422 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20005, licesnse plate: WA13083, leaving at:2022-01-18T21:31:58.883513) battery updated to 100.
+2022-01-18 19:50:29,432 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20006, licesnse plate: WA22129, leaving at:2022-01-19T03:31:58.890513) battery updated to 100.0.
+2022-01-18 19:50:29,439 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20007, licesnse plate: WA29598, leaving at:2022-01-19T06:31:58.892512) battery updated to 100.0.
+2022-01-18 19:50:29,447 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20002, licesnse plate: WA96733, leaving at:2022-01-19T06:31:58.831512) battery updated to 100.0.
+2022-01-18 19:50:29,454 - car (id:c0a83801-7e6d-1c19-817e-6d57857e0001, licesnse plate: WA78121, leaving at:2022-01-18T23:19:06) battery updated to 100.0.
+2022-01-18 20:00:29,371 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20003, licesnse plate: WA76212, leaving at:2022-01-19T04:31:58.881514) battery updated to 100.0.
+2022-01-18 20:00:29,378 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20005, licesnse plate: WA13083, leaving at:2022-01-18T21:31:58.883513) battery updated to 100.
+2022-01-18 20:00:29,384 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20006, licesnse plate: WA22129, leaving at:2022-01-19T03:31:58.890513) battery updated to 100.0.
+2022-01-18 20:00:29,392 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20007, licesnse plate: WA29598, leaving at:2022-01-19T06:31:58.892512) battery updated to 100.0.
+2022-01-18 20:00:29,397 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20002, licesnse plate: WA96733, leaving at:2022-01-19T06:31:58.831512) battery updated to 100.0.
+2022-01-18 20:00:29,405 - car (id:c0a83801-7e6d-1c19-817e-6d57857e0001, licesnse plate: WA78121, leaving at:2022-01-18T23:19:06) battery updated to 100.0.
+2022-01-18 20:05:36,080 - Energy price predicitons for next 24 hours updated.
+2022-01-18 20:05:36,080 - Current predicions:[210.0, 290.0, 150.0, 119.73, 90.2, 100.0, 122.39, 450.99, 426.57, 426.57, 463.03, 460.05, 439.6, 456.47, 463.03, 412.65, 421.98, 452.42, 426.08, 349.87, 190.0, 150.0, 78.0, 150.0]
+2022-01-18 20:06:36,397 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20007, licesnse plate: WA29598, leaving at:2022-01-19T06:31:58.892512) charge mode changed to 0.
+2022-01-18 20:06:36,397 - new car (id: c0a83801-7e1c-1d36-817e-1c700ff20007, licesnse plate: WA29598) plugged.
+2022-01-18 20:06:36,398 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20003, licesnse plate: WA76212, leaving at:2022-01-19T04:31:58.881514) charge mode changed to 0.
+2022-01-18 20:06:36,398 - new car (id: c0a83801-7e1c-1d36-817e-1c700ff20003, licesnse plate: WA76212) plugged.
+2022-01-18 20:06:36,399 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20006, licesnse plate: WA22129, leaving at:2022-01-19T03:31:58.890513) charge mode changed to 0.
+2022-01-18 20:06:36,399 - new car (id: c0a83801-7e1c-1d36-817e-1c700ff20006, licesnse plate: WA22129) plugged.
+2022-01-18 20:06:36,399 - car (id:c0a83801-7e6d-1c19-817e-6d57857e0001, licesnse plate: WA78121, leaving at:2022-01-18T23:19:06) charge mode changed to 0.
+2022-01-18 20:06:36,399 - new car (id: c0a83801-7e6d-1c19-817e-6d57857e0001, licesnse plate: WA78121) plugged.
+2022-01-18 20:06:36,400 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20002, licesnse plate: WA96733, leaving at:2022-01-19T06:31:58.831512) charge mode changed to 0.
+2022-01-18 20:06:36,400 - new car (id: c0a83801-7e1c-1d36-817e-1c700ff20002, licesnse plate: WA96733) plugged.
+2022-01-18 20:06:36,401 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20005, licesnse plate: WA13083, leaving at:2022-01-18T21:31:58.883513) charge mode changed to 0.
+2022-01-18 20:06:36,401 - new car (id: c0a83801-7e1c-1d36-817e-1c700ff20005, licesnse plate: WA13083) plugged.
+2022-01-18 20:12:39,727 - Energy price predicitons for next 24 hours updated.
+2022-01-18 20:12:39,727 - Current predicions:[210.0, 290.0, 150.0, 119.73, 90.2, 100.0, 122.39, 450.99, 426.57, 426.57, 463.03, 460.05, 439.6, 456.47, 463.03, 412.65, 421.98, 452.42, 426.08, 349.87, 190.0, 150.0, 78.0, 150.0]
+2022-01-18 20:13:39,991 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20005, licesnse plate: WA13083, leaving at:2022-01-18T21:31:58.883513) charge mode changed to 0.
+2022-01-18 20:13:39,991 - new car (id: c0a83801-7e1c-1d36-817e-1c700ff20005, licesnse plate: WA13083) plugged.
+2022-01-18 20:13:39,992 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20002, licesnse plate: WA96733, leaving at:2022-01-19T06:31:58.831512) charge mode changed to 0.
+2022-01-18 20:13:39,992 - new car (id: c0a83801-7e1c-1d36-817e-1c700ff20002, licesnse plate: WA96733) plugged.
+2022-01-18 20:13:39,992 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20006, licesnse plate: WA22129, leaving at:2022-01-19T03:31:58.890513) charge mode changed to 0.
+2022-01-18 20:13:39,992 - new car (id: c0a83801-7e1c-1d36-817e-1c700ff20006, licesnse plate: WA22129) plugged.
+2022-01-18 20:13:39,992 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20007, licesnse plate: WA29598, leaving at:2022-01-19T06:31:58.892512) charge mode changed to 0.
+2022-01-18 20:13:39,992 - new car (id: c0a83801-7e1c-1d36-817e-1c700ff20007, licesnse plate: WA29598) plugged.
+2022-01-18 20:13:39,992 - car (id:c0a83801-7e6d-1c19-817e-6d57857e0001, licesnse plate: WA78121, leaving at:2022-01-18T23:19:06) charge mode changed to 0.
+2022-01-18 20:13:39,992 - new car (id: c0a83801-7e6d-1c19-817e-6d57857e0001, licesnse plate: WA78121) plugged.
+2022-01-18 20:13:39,993 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20003, licesnse plate: WA76212, leaving at:2022-01-19T04:31:58.881514) charge mode changed to 0.
+2022-01-18 20:13:39,993 - new car (id: c0a83801-7e1c-1d36-817e-1c700ff20003, licesnse plate: WA76212) plugged.
+2022-01-18 20:17:43,492 - Energy price predicitons for next 24 hours updated.
+2022-01-18 20:17:43,492 - Current predicions:[290.0, 150.0, 119.73, 90.2, 100.0, 122.39, 450.99, 426.57, 426.57, 463.03, 460.05, 439.6, 456.47, 463.03, 412.65, 421.98, 452.42, 426.08, 349.87, 190.0, 150.0, 78.0, 150.0, 150.0]
+2022-01-18 20:18:43,741 - car (id:c0a83801-7e6d-1c19-817e-6d57857e0001, licesnse plate: WA78121, leaving at:2022-01-18T23:19:06) charge mode changed to 0.
+2022-01-18 20:18:43,741 - new car (id: c0a83801-7e6d-1c19-817e-6d57857e0001, licesnse plate: WA78121) plugged.
+2022-01-18 20:18:43,741 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20006, licesnse plate: WA22129, leaving at:2022-01-19T03:31:58.890513) charge mode changed to 0.
+2022-01-18 20:18:43,741 - new car (id: c0a83801-7e1c-1d36-817e-1c700ff20006, licesnse plate: WA22129) plugged.
+2022-01-18 20:18:43,741 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20003, licesnse plate: WA76212, leaving at:2022-01-19T04:31:58.881514) charge mode changed to 0.
+2022-01-18 20:18:43,741 - new car (id: c0a83801-7e1c-1d36-817e-1c700ff20003, licesnse plate: WA76212) plugged.
+2022-01-18 20:18:43,742 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20005, licesnse plate: WA13083, leaving at:2022-01-18T21:31:58.883513) charge mode changed to 0.
+2022-01-18 20:18:43,742 - new car (id: c0a83801-7e1c-1d36-817e-1c700ff20005, licesnse plate: WA13083) plugged.
+2022-01-18 20:18:43,742 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20007, licesnse plate: WA29598, leaving at:2022-01-19T06:31:58.892512) charge mode changed to 0.
+2022-01-18 20:18:43,742 - new car (id: c0a83801-7e1c-1d36-817e-1c700ff20007, licesnse plate: WA29598) plugged.
+2022-01-18 20:18:43,742 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20002, licesnse plate: WA96733, leaving at:2022-01-19T06:31:58.831512) charge mode changed to 0.
+2022-01-18 20:18:43,742 - new car (id: c0a83801-7e1c-1d36-817e-1c700ff20002, licesnse plate: WA96733) plugged.
+2022-01-18 20:23:48,996 - Energy price predicitons for next 24 hours updated.
+2022-01-18 20:23:48,997 - Current predicions:[290.0, 150.0, 119.73, 90.2, 100.0, 122.39, 450.99, 426.57, 426.57, 463.03, 460.05, 439.6, 456.47, 463.03, 412.65, 421.98, 452.42, 426.08, 349.87, 190.0, 150.0, 78.0, 150.0, 150.0]
+2022-01-18 20:24:49,266 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20007, licesnse plate: WA29598, leaving at:2022-01-19T06:31:58.892512) charge mode changed to 0.
+2022-01-18 20:24:49,266 - new car (id: c0a83801-7e1c-1d36-817e-1c700ff20007, licesnse plate: WA29598) plugged.
+2022-01-18 20:24:49,266 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20003, licesnse plate: WA76212, leaving at:2022-01-19T04:31:58.881514) charge mode changed to 0.
+2022-01-18 20:24:49,266 - new car (id: c0a83801-7e1c-1d36-817e-1c700ff20003, licesnse plate: WA76212) plugged.
+2022-01-18 20:24:49,267 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20002, licesnse plate: WA96733, leaving at:2022-01-19T06:31:58.831512) charge mode changed to 0.
+2022-01-18 20:24:49,267 - new car (id: c0a83801-7e1c-1d36-817e-1c700ff20002, licesnse plate: WA96733) plugged.
+2022-01-18 20:24:49,267 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20006, licesnse plate: WA22129, leaving at:2022-01-19T03:31:58.890513) charge mode changed to 0.
+2022-01-18 20:24:49,267 - new car (id: c0a83801-7e1c-1d36-817e-1c700ff20006, licesnse plate: WA22129) plugged.
+2022-01-18 20:24:49,267 - car (id:c0a83801-7e6d-1c19-817e-6d57857e0001, licesnse plate: WA78121, leaving at:2022-01-18T23:19:06) charge mode changed to -1.
+2022-01-18 20:24:49,267 - new car (id: c0a83801-7e6d-1c19-817e-6d57857e0001, licesnse plate: WA78121) plugged.
+2022-01-18 20:24:49,268 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20005, licesnse plate: WA13083, leaving at:2022-01-18T21:31:58.883513) charge mode changed to 0.
+2022-01-18 20:24:49,268 - new car (id: c0a83801-7e1c-1d36-817e-1c700ff20005, licesnse plate: WA13083) plugged.
+2022-01-18 20:28:06,255 - Energy price predicitons for next 24 hours updated.
+2022-01-18 20:28:06,255 - Current predicions:[290.0, 250.0, 119.73, 90.2, 100.0, 122.39, 150.99, 126.57, 126.57, 263.03, 160.05, 239.6, 156.47, 163.03, 112.65, 421.98, 452.42, 426.08, 349.87, 190.0, 150.0, 78.0, 150.0, 150.0]
+2022-01-18 20:29:06,551 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20006, licesnse plate: WA22129, leaving at:2022-01-19T03:31:58.890513) charge mode changed to -1.
+2022-01-18 20:29:06,551 - new car (id: c0a83801-7e1c-1d36-817e-1c700ff20006, licesnse plate: WA22129) plugged.
+2022-01-18 20:29:06,551 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20003, licesnse plate: WA76212, leaving at:2022-01-19T04:31:58.881514) charge mode changed to -1.
+2022-01-18 20:29:06,551 - new car (id: c0a83801-7e1c-1d36-817e-1c700ff20003, licesnse plate: WA76212) plugged.
+2022-01-18 20:29:06,551 - car (id:c0a83801-7e6d-1c19-817e-6d57857e0001, licesnse plate: WA78121, leaving at:2022-01-18T23:19:06) charge mode changed to 0.
+2022-01-18 20:29:06,551 - new car (id: c0a83801-7e6d-1c19-817e-6d57857e0001, licesnse plate: WA78121) plugged.
+2022-01-18 20:29:06,552 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20002, licesnse plate: WA96733, leaving at:2022-01-19T06:31:58.831512) charge mode changed to -1.
+2022-01-18 20:29:06,552 - new car (id: c0a83801-7e1c-1d36-817e-1c700ff20002, licesnse plate: WA96733) plugged.
+2022-01-18 20:29:06,552 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20005, licesnse plate: WA13083, leaving at:2022-01-18T21:31:58.883513) charge mode changed to 0.
+2022-01-18 20:29:06,552 - new car (id: c0a83801-7e1c-1d36-817e-1c700ff20005, licesnse plate: WA13083) plugged.
+2022-01-18 20:29:06,552 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20007, licesnse plate: WA29598, leaving at:2022-01-19T06:31:58.892512) charge mode changed to -1.
+2022-01-18 20:29:06,552 - new car (id: c0a83801-7e1c-1d36-817e-1c700ff20007, licesnse plate: WA29598) plugged.
+2022-01-18 20:38:06,524 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20006, licesnse plate: WA22129, leaving at:2022-01-19T03:31:58.890513) battery updated to 80.15873015873015.
+2022-01-18 20:38:06,532 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20003, licesnse plate: WA76212, leaving at:2022-01-19T04:31:58.881514) battery updated to 83.33333333333333.
+2022-01-18 20:38:06,540 - car (id:c0a83801-7e6d-1c19-817e-6d57857e0001, licesnse plate: WA78121, leaving at:2022-01-18T23:19:06) battery updated to 100.0.
+2022-01-18 20:38:06,547 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20002, licesnse plate: WA96733, leaving at:2022-01-19T06:31:58.831512) battery updated to 81.48148148148148.
+2022-01-18 20:38:06,556 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20005, licesnse plate: WA13083, leaving at:2022-01-18T21:31:58.883513) battery updated to 100.0.
+2022-01-18 20:38:06,562 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20007, licesnse plate: WA29598, leaving at:2022-01-19T06:31:58.892512) battery updated to 82.26950354609929.
+2022-01-18 20:48:06,504 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20006, licesnse plate: WA22129, leaving at:2022-01-19T03:31:58.890513) battery updated to 60.31746031746031.
+2022-01-18 20:48:06,510 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20003, licesnse plate: WA76212, leaving at:2022-01-19T04:31:58.881514) battery updated to 66.66666666666666.
+2022-01-18 20:48:06,516 - car (id:c0a83801-7e6d-1c19-817e-6d57857e0001, licesnse plate: WA78121, leaving at:2022-01-18T23:19:06) battery updated to 100.0.
+2022-01-18 20:48:06,522 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20002, licesnse plate: WA96733, leaving at:2022-01-19T06:31:58.831512) battery updated to 62.96296296296296.
+2022-01-18 20:48:06,529 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20005, licesnse plate: WA13083, leaving at:2022-01-18T21:31:58.883513) battery updated to 100.0.
+2022-01-18 20:48:06,535 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20007, licesnse plate: WA29598, leaving at:2022-01-19T06:31:58.892512) battery updated to 64.53900709219857.
+2022-01-18 20:58:06,517 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20006, licesnse plate: WA22129, leaving at:2022-01-19T03:31:58.890513) battery updated to 40.47619047619047.
+2022-01-18 20:58:06,526 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20003, licesnse plate: WA76212, leaving at:2022-01-19T04:31:58.881514) battery updated to 49.999999999999986.
+2022-01-18 20:58:06,532 - car (id:c0a83801-7e6d-1c19-817e-6d57857e0001, licesnse plate: WA78121, leaving at:2022-01-18T23:19:06) battery updated to 100.0.
+2022-01-18 20:58:06,540 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20002, licesnse plate: WA96733, leaving at:2022-01-19T06:31:58.831512) battery updated to 44.44444444444444.
+2022-01-18 20:58:06,546 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20005, licesnse plate: WA13083, leaving at:2022-01-18T21:31:58.883513) battery updated to 100.0.
+2022-01-18 20:58:06,554 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20007, licesnse plate: WA29598, leaving at:2022-01-19T06:31:58.892512) battery updated to 46.80851063829787.
+2022-01-18 21:08:06,514 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20006, licesnse plate: WA22129, leaving at:2022-01-19T03:31:58.890513) battery updated to 20.634920634920626.
+2022-01-18 21:08:06,521 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20003, licesnse plate: WA76212, leaving at:2022-01-19T04:31:58.881514) battery updated to 33.333333333333314.
+2022-01-18 21:08:06,527 - car (id:c0a83801-7e6d-1c19-817e-6d57857e0001, licesnse plate: WA78121, leaving at:2022-01-18T23:19:06) battery updated to 100.0.
+2022-01-18 21:08:06,533 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20002, licesnse plate: WA96733, leaving at:2022-01-19T06:31:58.831512) battery updated to 25.925925925925924.
+2022-01-18 21:08:06,538 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20005, licesnse plate: WA13083, leaving at:2022-01-18T21:31:58.883513) battery updated to 100.0.
+2022-01-18 21:08:06,544 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20007, licesnse plate: WA29598, leaving at:2022-01-19T06:31:58.892512) battery updated to 29.078014184397162.
+2022-01-18 21:48:06,516 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20006, licesnse plate: WA22129, leaving at:2022-01-19T03:31:58.890513) battery updated to 0.7936507936507837.
+2022-01-18 21:48:06,522 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20003, licesnse plate: WA76212, leaving at:2022-01-19T04:31:58.881514) battery updated to 16.666666666666647.
+2022-01-18 21:48:06,529 - car (id:c0a83801-7e6d-1c19-817e-6d57857e0001, licesnse plate: WA78121, leaving at:2022-01-18T23:19:06) battery updated to 100.0.
+2022-01-18 21:48:06,535 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20002, licesnse plate: WA96733, leaving at:2022-01-19T06:31:58.831512) battery updated to 7.407407407407405.
+2022-01-18 21:48:06,542 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20005, licesnse plate: WA13083, leaving at:2022-01-18T21:31:58.883513) battery updated to 100.0.
+2022-01-18 21:48:06,548 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20007, licesnse plate: WA29598, leaving at:2022-01-19T06:31:58.892512) battery updated to 11.347517730496456.
+2022-01-18 21:58:06,543 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20006, licesnse plate: WA22129, leaving at:2022-01-19T03:31:58.890513) battery updated to 0.
+2022-01-18 21:58:06,550 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20003, licesnse plate: WA76212, leaving at:2022-01-19T04:31:58.881514) battery updated to 0.
+2022-01-18 21:58:06,556 - car (id:c0a83801-7e6d-1c19-817e-6d57857e0001, licesnse plate: WA78121, leaving at:2022-01-18T23:19:06) battery updated to 100.0.
+2022-01-18 21:58:06,561 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20002, licesnse plate: WA96733, leaving at:2022-01-19T06:31:58.831512) battery updated to 0.
+2022-01-18 21:58:06,568 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20005, licesnse plate: WA13083, leaving at:2022-01-18T21:31:58.883513) battery updated to 100.0.
+2022-01-18 21:58:06,573 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20007, licesnse plate: WA29598, leaving at:2022-01-19T06:31:58.892512) battery updated to 0.
+2022-01-18 22:08:06,518 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20006, licesnse plate: WA22129, leaving at:2022-01-19T03:31:58.890513) battery updated to 0.
+2022-01-18 22:08:06,524 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20003, licesnse plate: WA76212, leaving at:2022-01-19T04:31:58.881514) battery updated to 0.
+2022-01-18 22:08:06,530 - car (id:c0a83801-7e6d-1c19-817e-6d57857e0001, licesnse plate: WA78121, leaving at:2022-01-18T23:19:06) battery updated to 100.0.
+2022-01-18 22:08:06,537 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20002, licesnse plate: WA96733, leaving at:2022-01-19T06:31:58.831512) battery updated to 0.
+2022-01-18 22:08:06,543 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20005, licesnse plate: WA13083, leaving at:2022-01-18T21:31:58.883513) battery updated to 100.0.
+2022-01-18 22:08:06,551 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20007, licesnse plate: WA29598, leaving at:2022-01-19T06:31:58.892512) battery updated to 0.
+2022-01-18 22:18:06,516 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20006, licesnse plate: WA22129, leaving at:2022-01-19T03:31:58.890513) battery updated to 0.
+2022-01-18 22:18:06,523 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20003, licesnse plate: WA76212, leaving at:2022-01-19T04:31:58.881514) battery updated to 0.
+2022-01-18 22:18:06,529 - car (id:c0a83801-7e6d-1c19-817e-6d57857e0001, licesnse plate: WA78121, leaving at:2022-01-18T23:19:06) battery updated to 100.0.
+2022-01-18 22:18:06,535 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20002, licesnse plate: WA96733, leaving at:2022-01-19T06:31:58.831512) battery updated to 0.
+2022-01-18 22:18:06,541 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20005, licesnse plate: WA13083, leaving at:2022-01-18T21:31:58.883513) battery updated to 100.0.
+2022-01-18 22:18:06,547 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20007, licesnse plate: WA29598, leaving at:2022-01-19T06:31:58.892512) battery updated to 0.
+2022-01-18 22:24:42,387 - Energy price predicitons for next 24 hours updated.
+2022-01-18 22:24:42,387 - Current predicions:[90.2, 100.0, 122.39, 150.99, 126.57, 126.57, 263.03, 160.05, 239.6, 156.47, 163.03, 112.65, 421.98, 452.42, 426.08, 349.87, 190.0, 150.0, 78.0, 150.0, 150.0, 150.0, 150.0, 69.64]
+2022-01-18 22:25:44,984 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20006, licesnse plate: WA22129, leaving at:2022-01-19T03:31:58.890513) charge mode changed to 1.
+2022-01-18 22:25:44,984 - new car (id: c0a83801-7e1c-1d36-817e-1c700ff20006, licesnse plate: WA22129) plugged.
+2022-01-18 22:25:44,984 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20002, licesnse plate: WA96733, leaving at:2022-01-19T06:31:58.831512) charge mode changed to 1.
+2022-01-18 22:25:44,984 - new car (id: c0a83801-7e1c-1d36-817e-1c700ff20002, licesnse plate: WA96733) plugged.
+2022-01-18 22:25:44,985 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20007, licesnse plate: WA29598, leaving at:2022-01-19T06:31:58.892512) charge mode changed to 1.
+2022-01-18 22:25:44,985 - new car (id: c0a83801-7e1c-1d36-817e-1c700ff20007, licesnse plate: WA29598) plugged.
+2022-01-18 22:25:44,985 - car (id:c0a83801-7e6d-1c19-817e-6d57857e0001, licesnse plate: WA78121, leaving at:2022-01-18T23:19:06) charge mode changed to 1.
+2022-01-18 22:25:44,985 - new car (id: c0a83801-7e6d-1c19-817e-6d57857e0001, licesnse plate: WA78121) plugged.
+2022-01-18 22:25:44,985 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20003, licesnse plate: WA76212, leaving at:2022-01-19T04:31:58.881514) charge mode changed to 1.
+2022-01-18 22:25:44,985 - new car (id: c0a83801-7e1c-1d36-817e-1c700ff20003, licesnse plate: WA76212) plugged.
+2022-01-18 22:34:44,974 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20006, licesnse plate: WA22129, leaving at:2022-01-19T03:31:58.890513) battery updated to 19.841269841269842.
+2022-01-18 22:34:44,981 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20002, licesnse plate: WA96733, leaving at:2022-01-19T06:31:58.831512) battery updated to 18.51851851851852.
+2022-01-18 22:34:44,989 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20007, licesnse plate: WA29598, leaving at:2022-01-19T06:31:58.892512) battery updated to 17.730496453900706.
+2022-01-18 22:34:44,995 - car (id:c0a83801-7e6d-1c19-817e-6d57857e0001, licesnse plate: WA78121, leaving at:2022-01-18T23:19:06) battery updated to 100.
+2022-01-18 22:34:45,001 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20003, licesnse plate: WA76212, leaving at:2022-01-19T04:31:58.881514) battery updated to 16.666666666666668.
+2022-01-18 22:44:44,980 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20006, licesnse plate: WA22129, leaving at:2022-01-19T03:31:58.890513) battery updated to 39.682539682539684.
+2022-01-18 22:44:44,987 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20002, licesnse plate: WA96733, leaving at:2022-01-19T06:31:58.831512) battery updated to 37.03703703703704.
+2022-01-18 22:44:44,992 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20007, licesnse plate: WA29598, leaving at:2022-01-19T06:31:58.892512) battery updated to 35.46099290780141.
+2022-01-18 22:44:44,998 - car (id:c0a83801-7e6d-1c19-817e-6d57857e0001, licesnse plate: WA78121, leaving at:2022-01-18T23:19:06) battery updated to 100.
+2022-01-18 22:44:45,004 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20003, licesnse plate: WA76212, leaving at:2022-01-19T04:31:58.881514) battery updated to 33.333333333333336.
+2022-01-18 22:54:44,981 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20006, licesnse plate: WA22129, leaving at:2022-01-19T03:31:58.890513) battery updated to 59.523809523809526.
+2022-01-18 22:54:44,987 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20002, licesnse plate: WA96733, leaving at:2022-01-19T06:31:58.831512) battery updated to 55.55555555555556.
+2022-01-18 22:54:44,993 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20007, licesnse plate: WA29598, leaving at:2022-01-19T06:31:58.892512) battery updated to 53.19148936170212.
+2022-01-18 22:54:45,000 - car (id:c0a83801-7e6d-1c19-817e-6d57857e0001, licesnse plate: WA78121, leaving at:2022-01-18T23:19:06) battery updated to 100.
+2022-01-18 22:54:45,007 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20003, licesnse plate: WA76212, leaving at:2022-01-19T04:31:58.881514) battery updated to 50.0.
+2022-01-18 23:04:44,979 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20006, licesnse plate: WA22129, leaving at:2022-01-19T03:31:58.890513) battery updated to 79.36507936507937.
+2022-01-18 23:04:44,985 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20002, licesnse plate: WA96733, leaving at:2022-01-19T06:31:58.831512) battery updated to 74.07407407407408.
+2022-01-18 23:04:44,992 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20007, licesnse plate: WA29598, leaving at:2022-01-19T06:31:58.892512) battery updated to 70.92198581560282.
+2022-01-18 23:04:44,998 - car (id:c0a83801-7e6d-1c19-817e-6d57857e0001, licesnse plate: WA78121, leaving at:2022-01-18T23:19:06) battery updated to 100.
+2022-01-18 23:04:45,004 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20003, licesnse plate: WA76212, leaving at:2022-01-19T04:31:58.881514) battery updated to 66.66666666666667.
+2022-01-18 23:14:44,993 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20006, licesnse plate: WA22129, leaving at:2022-01-19T03:31:58.890513) battery updated to 99.20634920634922.
+2022-01-18 23:14:45,002 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20002, licesnse plate: WA96733, leaving at:2022-01-19T06:31:58.831512) battery updated to 92.5925925925926.
+2022-01-18 23:14:45,009 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20007, licesnse plate: WA29598, leaving at:2022-01-19T06:31:58.892512) battery updated to 88.65248226950354.
+2022-01-18 23:14:45,015 - car (id:c0a83801-7e6d-1c19-817e-6d57857e0001, licesnse plate: WA78121, leaving at:2022-01-18T23:19:06) battery updated to 100.
+2022-01-18 23:14:45,022 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20003, licesnse plate: WA76212, leaving at:2022-01-19T04:31:58.881514) battery updated to 83.33333333333334.
+2022-01-18 23:24:44,886 - Energy price predicitons for next 24 hours updated.
+2022-01-18 23:24:44,886 - Current predicions:[100.0, 122.39, 150.99, 126.57, 126.57, 263.03, 160.05, 239.6, 156.47, 163.03, 112.65, 421.98, 452.42, 426.08, 349.87, 190.0, 150.0, 78.0, 150.0, 150.0, 150.0, 150.0, 69.64, 69.55]
+2022-01-18 23:24:44,887 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20006, licesnse plate: WA22129, leaving at:2022-01-19T03:31:58.890513) charge mode changed to 1.
+2022-01-18 23:24:44,887 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20002, licesnse plate: WA96733, leaving at:2022-01-19T06:31:58.831512) charge mode changed to 1.
+2022-01-18 23:24:44,887 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20007, licesnse plate: WA29598, leaving at:2022-01-19T06:31:58.892512) charge mode changed to 1.
+2022-01-18 23:24:44,888 - car (id:c0a83801-7e6d-1c19-817e-6d57857e0001, licesnse plate: WA78121, leaving at:2022-01-18T23:19:06) charge mode changed to 0.
+2022-01-18 23:24:44,888 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20003, licesnse plate: WA76212, leaving at:2022-01-19T04:31:58.881514) charge mode changed to 1.
+2022-01-18 23:24:45,008 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20006, licesnse plate: WA22129, leaving at:2022-01-19T03:31:58.890513) battery updated to 100.
+2022-01-18 23:24:45,015 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20002, licesnse plate: WA96733, leaving at:2022-01-19T06:31:58.831512) battery updated to 100.
+2022-01-18 23:24:45,022 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20007, licesnse plate: WA29598, leaving at:2022-01-19T06:31:58.892512) battery updated to 100.
+2022-01-18 23:24:45,028 - car (id:c0a83801-7e6d-1c19-817e-6d57857e0001, licesnse plate: WA78121, leaving at:2022-01-18T23:19:06) battery updated to 100.0.
+2022-01-18 23:24:45,035 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20003, licesnse plate: WA76212, leaving at:2022-01-19T04:31:58.881514) battery updated to 100.
+2022-01-18 23:34:44,974 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20006, licesnse plate: WA22129, leaving at:2022-01-19T03:31:58.890513) battery updated to 100.
+2022-01-18 23:34:44,983 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20002, licesnse plate: WA96733, leaving at:2022-01-19T06:31:58.831512) battery updated to 100.
+2022-01-18 23:34:44,989 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20007, licesnse plate: WA29598, leaving at:2022-01-19T06:31:58.892512) battery updated to 100.
+2022-01-18 23:34:44,994 - car (id:c0a83801-7e6d-1c19-817e-6d57857e0001, licesnse plate: WA78121, leaving at:2022-01-18T23:19:06) battery updated to 100.0.
+2022-01-18 23:34:45,001 - car (id:c0a83801-7e1c-1d36-817e-1c700ff20003, licesnse plate: WA76212, leaving at:2022-01-19T04:31:58.881514) battery updated to 100.
+2022-01-20 11:08:10,417 - Energy price predicitons for next 24 hours updated.
+2022-01-20 11:08:10,417 - Current predicions:[120.0, 150.0, 70.0, 90.0, 190.0, 210.0, 290.0, 250.0, 119.73, 90.2, 100.0, 122.39, 150.99, 126.57, 126.57, 263.03, 160.05, 239.6, 156.47, 163.03, 112.65, 421.98, 452.42, 426.08]
+2022-01-20 11:11:39,892 - Energy price predicitons for next 24 hours updated.
+2022-01-20 11:11:39,893 - Current predicions:[120.0, 150.0, 70.0, 90.0, 190.0, 210.0, 290.0, 250.0, 119.73, 90.2, 100.0, 122.39, 150.99, 126.57, 126.57, 263.03, 160.05, 239.6, 156.47, 163.03, 112.65, 421.98, 452.42, 426.08]
