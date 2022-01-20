@@ -56,6 +56,12 @@ class GetCarInfoTest(unittest.TestCase):
 
 
     def test_when_leaving(self):
+        start = datetime.datetime.today()
+        start = datetime.datetime.strptime(str(start).split('.')[0], '%Y-%m-%d %H:%M:%S')
+        start = start.isoformat()
+        end = datetime.datetime.today() + datetime.timedelta(hours=8)
+        end = datetime.datetime.strptime(str(end).split('.')[0], '%Y-%m-%d %H:%M:%S')
+        end = end.isoformat()
         car_info = {
             "id": "ac1f2001-7e59-1f19-817e-597fd23e0000",
             "parkingSpotId": "c0a83201-8cxc-1hnn-237c-dfjr4rcc05047",
@@ -71,8 +77,8 @@ class GetCarInfoTest(unittest.TestCase):
                 }
             },
             "userPreferences": [],
-            "startTime": "2022-01-14T17:50:56.1772139",
-            "endTime": "2022-01-14T23:30:00",
+            "startTime": str(start),
+            "endTime": str(end),
             "battery": 40
         }
         
@@ -80,9 +86,15 @@ class GetCarInfoTest(unittest.TestCase):
         start = datetime.datetime.now().hour
         endTime = car_info['endTime'].split('.')[0]
         endTime = datetime.datetime.strptime(endTime, '%Y-%m-%dT%H:%M:%S').hour
-        self.assertEqual(result['when_leaving'], endTime-start)
+        self.assertEqual(result['when_leaving'], endTime-start-1)
 
     def test_when_leaving_miliseconds(self):
+        start = datetime.datetime.today()
+        start = datetime.datetime.strptime(str(start).split('.')[0], '%Y-%m-%d %H:%M:%S')
+        start = start.isoformat()
+        end = datetime.datetime.today() + datetime.timedelta(hours=8)
+        end = datetime.datetime.strptime(str(end).split('.')[0], '%Y-%m-%d %H:%M:%S')
+        end = end.isoformat()
         car_info = {
             "id": "ac1f2001-7e59-1f19-817e-597fd23e0000",
             "parkingSpotId": "c0a83201-8cxc-1hnn-237c-dfjr4rcc05047",
@@ -98,16 +110,16 @@ class GetCarInfoTest(unittest.TestCase):
                 }
             },
             "userPreferences": [],
-            "startTime": "2022-01-14T17:50:56.1772139",
-            "endTime": "2022-01-14T19:30:00.1772144",
+            "startTime": str(start),
+            "endTime": str(end),
             "battery": 40
         }
         result = get_car_info(car_info)
-        start = datetime.now().hour
+        start = datetime.datetime.now().hour
         endTime = car_info['endTime'].split('.')[0]
-        endTime = datetime.strptime(endTime, '%Y-%m-%dT%H:%M:%S').hour
+        endTime = datetime.datetime.strptime(endTime, '%Y-%m-%dT%H:%M:%S').hour
         
-        self.assertEqual(result['when_leaving'], endTime-start)
+        self.assertEqual(result['when_leaving'], endTime-start-1)
 
 class TestFindBestChargeTime(unittest.TestCase):
 
