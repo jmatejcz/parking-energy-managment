@@ -31,7 +31,8 @@ class WebClient():
     def put_battery(self, access_token, res_id, battery):
         url = self.url + '/parking/reservation/update'
         headers = {
-            'Authorization': f'Bearer {access_token}'
+            'Authorization': f'Bearer {access_token}',
+            'Content-Type': 'application/json'
         }
         payload = json.dumps({
             "reservationId": f"{res_id}",
@@ -39,7 +40,3 @@ class WebClient():
         })
         response = requests.request("PUT", url, headers=headers, data=payload)
         return response.json()    
-
-
-
-    

@@ -12,29 +12,11 @@ As we don't have real parking and real info from city grid we have to symulate i
 The predictions will be average prices from last days.
 '''
 
-TIME_INTERVAL = 30 # time between info from city grid about prices in minutes
-PRICE_CUT_OFF = 15 # how much money price should be above/below avg to be considered good for sale/buy 
-
-city_grid_info = {
-    'buy_price': 700, # zl for a Mwh
-    'sell_price': 700 # zl for a Mwh
-}
-
-car_info = {
-    'model': 'Tesla',
-    'battery_capacity': 250, # KWh
-    'when_leaving': 22, # how much time to leave
-    'percent_charged' : 50
-}
+PRICE_CUT_OFF = 20
 
 parking_info = {
     'battery_power': 50 # kW
 }
-
-cars = [car_info]
-
-
-
 
 def extract_prediction(file_name):
     preds = []
@@ -49,15 +31,6 @@ def extract_prediction(file_name):
 
     return preds
 
-def compare_to_avg_preds(preds:list):
-    '''
-    Function subtracts from all preds the avg value
-    Args: 
-    preds - predictions of energy price
-    Rerturns: 
-    predictions compared to avg, for example -17 means price is 17zl lower than avg.
-    '''
-    pass
 
 def find_best_charge_time(period_preds:list, car_info:dict):
     '''
@@ -73,22 +46,8 @@ def find_best_charge_time(period_preds:list, car_info:dict):
     srt = sorted(zipped, key=lambda l:l[1])
     return srt[:hours_needed]
 
-def find_best_sale_time(load, unload, car_info:dict):
-    '''
-    finds best hours to charge and discharge
-    Args:
-    load1 - hours when to first load,
-    unload - hours when to sell energy,
-    load2 - hours when to second load
-    car_info - dictionary of car's info
-    Returns:
-    best_load_time - best time to charge
-    best_unload_time - best time to unload
-    '''
-    
-    hours_needed = (car_info['battery_capacity']*(100-car_info['percent_charged'])/100)/parking_info['battery_power']
 
-def sale_potential(period_preds:list):
+def sale_potential(period_preds:list, car_info:dict):
     '''
     Function tries to detect oportiunity to sale energy with profit.
     To do so we need cheap energy period followed by wxpensive energy period and again cheap.
@@ -98,6 +57,8 @@ def sale_potential(period_preds:list):
     False if sale is not possible
     or
     '''
+    hours_needed = (car_info['battery_capacity']*(100-car_info['percent_charged'])/100)/parking_info['battery_power']
+    hours_needed = math.ceil(hours_needed)
     load1 = []
     load2 = []
     unload = []
@@ -119,12 +80,12 @@ def sale_potential(period_preds:list):
 
     if len(load2)==0 or len(unload)==0:
         return False
+    elif hours_needed >= len(load1)+len(load2):
+        return False
     else:
         load1 = sorted(load1, key= lambda l:l[1])
         unload = sorted(unload,key= lambda l:l[1], reverse=True)
         load2 = sorted(load2, key= lambda l:l[1])
-
-        #maks_unload = unload[:hours_for_now+len(load2)]
 
         return load1, unload, load2
     
@@ -134,13 +95,13 @@ def get_car_info(car_info:dict):
     new_car_info['battery_capacity'] = car_info['carDTO']['carModel']['batteryCapacity']
     if car_info['endTime']:
         endTime = car_info['endTime'].split('.')[0]
-        endTime = datetime.strptime(endTime, '%Y-%m-%dT%H:%M:%S').hour
-        start = datetime.now().hour
-        new_car_info['when_leaving'] = endTime - start
+        endTime = datetime.strptime(endTime, '%Y-%m-%dT%H:%M:%S')
+        start = datetime.now()
+        diff = (endTime - start).total_seconds()//3600.0
+        new_car_info['when_leaving'] = int(diff)
     else:
         new_car_info['when_leaving'] = car_info['carDTO']['carModel']['batteryCapacity']/parking_info['battery_power']
     new_car_info['percent_charged'] = car_info['battery']
-    print(new_car_info)
     return new_car_info
 
 
@@ -151,35 +112,40 @@ def schedule_charge(car_info:dict, preds:list):
     car_info - dict like car_info, about car on the parking
     preds - predictions of energy price
     '''
+    
+    if not preds:
+        return 0
     car_info = get_car_info(car_info)
+    if car_info['when_leaving']<0:
+        return 0
+    if car_info['when_leaving'] == 0:
+        return 1
     period_preds = preds[:car_info['when_leaving']]
-    if sale_potential(period_preds):
-        load1, unload, load2 = sale_potential(period_preds)
+    if sale_potential(period_preds, car_info):
+        load1, unload, load2 = sale_potential(period_preds, car_info)
         load1.extend(load2)
         best_unload_timing = unload
-        best_load_timing = load1     
+        best_load_timing = load1
     else:
         best_load_timing = find_best_charge_time(period_preds, car_info)
         best_unload_timing = []
     
-    return output_signal(best_load_timing, best_unload_timing)
+    return output_signal(best_load_timing, best_unload_timing, car_info)
   
     
 
-def output_signal(best_load_timing:list, best_unload_timing:list) -> int:
+def output_signal(best_load_timing:list, best_unload_timing:list, car_info) -> int:
 
     hours_needed = (car_info['battery_capacity']*(100-car_info['percent_charged'])/100)/parking_info['battery_power']
     hours_needed = math.ceil(hours_needed)
-    hours_for_now = (car_info['battery_capacity']*car_info['percent_charged']/100)//parking_info['battery_power']
+    hours_for_now = (car_info['battery_capacity']*car_info['percent_charged']/100)/parking_info['battery_power']
 
-    print(best_load_timing, best_unload_timing)
-    if best_load_timing[0][0] == 0 and hours_needed > 0:
+    if best_load_timing and best_load_timing[0][0] == 0 and hours_needed > 0:
         return 1
-        
-    elif best_unload_timing[0][0] == 0:
-        if hours_for_now >= 1 and hours_needed <= len(best_load_timing):
-            
-            return -1
+
+      
+    elif best_unload_timing and best_unload_timing[0][0] == 0 and hours_for_now > 0:
+        return -1
 
     else:    
         return 0

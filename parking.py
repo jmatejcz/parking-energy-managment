@@ -6,7 +6,9 @@ import json
 import utils
 from apscheduler.schedulers.blocking import BlockingScheduler
 import csv
+import datetime
 
+DATABASE_INTERVAL = 10 #minutes
 
 class Parking():
 
@@ -14,20 +16,23 @@ class Parking():
         self.state = []
         self.price_preds = []
         self.working_time = 0
+        self.charger_power = 50
 
     def update_price_preds(self, filename):
-        self.price_preds = []
         with open(filename) as f:
             pred_reader = csv.reader(f, delimiter=';')
             next(pred_reader)
             rows = list(pred_reader)
+            new_preds = []
             for row in rows[self.working_time+1: self.working_time+25]:
                 try:
-                    self.price_preds.append(float(row[2].replace(',', '.')))
+                    new_preds.append(float(row[2].replace(',', '.')))
                 except ValueError:
                     pass
-        print(self.price_preds)
-        utils.log_price_preds_updated()
+                
+            self.price_preds = new_preds
+        self.working_time += 1
+        utils.log_price_preds_updated(self.price_preds)
         
     def add_new_car(self, car_info:dict) -> None:
         self.state.append(car_info)
@@ -48,9 +53,7 @@ class Parking():
             utils.log_new_car(car_info)
 
     def make_decision_for_car(self, car_info:dict) -> dict:
-        if car_info['battery'] > 90:
-            mode = 0
-        elif car_info['endTime'] is None:
+        if car_info['endTime'] is None:
             mode = 1
         else:
             mode = decision.schedule_charge(car_info, self.price_preds)
@@ -70,6 +73,12 @@ def check_for_new_cars(WebClient, Parking) -> None:
 def update_database(WebClient, Parking):
     token = WebClient.get_login_token('email=john.doe%40mail.com&password=1234')
     for res in Parking.state:
+        
+        res['battery'] += res['charge_mode']*Parking.charger_power/res['carDTO']['carModel']['batteryCapacity']*100*DATABASE_INTERVAL/60
+        if res['battery'] > 100:
+            res['battery'] = 100
+        elif res['battery'] < 0:
+            res['battery'] = 0
         WebClient.put_battery(token, res['id'], res['battery'])
         utils.log_database_update(res)
 
@@ -81,6 +90,7 @@ def schedule_charge_for_all_cars(Parking):
 
 def update_price_preds(Parking, filename):
     Parking.update_price_preds(filename)
+    schedule_charge_for_all_cars(Parking)
 
 
 if __name__ == '__main__':
@@ -89,9 +99,9 @@ if __name__ == '__main__':
     Parking.update_price_preds('data/PL_CENY_NIEZB_20220101_20220115.csv')
     scheduler = BlockingScheduler(timezone="Europe/Warsaw")
 
-    scheduler.add_job(lambda: check_for_new_cars(WebClient, Parking), 'interval', seconds=20)
-    scheduler.add_job(lambda: schedule_charge_for_all_cars(Parking), 'interval', minutes=1)
-    scheduler.add_job(lambda: update_database(WebClient, Parking), 'interval', seconds=30)
-    scheduler.add_job(lambda: update_price_preds(Parking, 'data/PL_CENY_NIEZB_20220101_20220115.csv'), 'interval', minutes=1)
+    scheduler.add_job(lambda: check_for_new_cars(WebClient, Parking), 'interval', minutes=1, id='check_for_new_cars')
+    #scheduler.add_job(lambda: schedule_charge_for_all_cars(Parking), 'interval', hours=1, id='schedule_charge')
+    scheduler.add_job(lambda: update_database(WebClient, Parking), 'interval', minutes=DATABASE_INTERVAL, id='update_database')
+    scheduler.add_job(lambda: update_price_preds(Parking, 'data/PL_CENY_NIEZB_20220101_20220115.csv'), 'interval', hours=1, id='update_price_preds')
     
     scheduler.start()
